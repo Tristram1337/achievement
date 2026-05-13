@@ -570,3 +570,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0189 — The Melancholic Phantom Read
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0190 — The Hirsute Lost Update
+*feeds on TODOs older than the company and exhales stack traces in three encodings at once.*
