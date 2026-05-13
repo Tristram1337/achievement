@@ -81,3 +81,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0026 — The Bombastic Memory Leak
 *haunts the codebase between 02:00 and 04:00 UTC, fed by stale cache entries.*
+
+## #0027 — The Wanton Buffer Overrun
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
