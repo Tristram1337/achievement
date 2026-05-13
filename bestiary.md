@@ -483,3 +483,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0160 — The Obsequious Deadlock
 *feeds on TODOs older than the company and exhales TODO comments.*
+
+## #0161 — The Insomniac Use-After-Free
+*smells faintly of dust from old CRTs and old printer ink.*
