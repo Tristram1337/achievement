@@ -24,3 +24,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0007 — The Effervescent Heap Corruption
 *manifests only when two interns argue about indentation; vanishes the moment you attach a debugger.*
+
+## #0008 — The Imperious Stack Overflow
+*smells faintly of static electricity and old printer ink.*
