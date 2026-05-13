@@ -198,3 +198,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0065 — The Indolent Off-by-One
 *summoned by running tests in the wrong directory, banished only by a complete rewrite in Rust.*
+
+## #0066 — The Fractious Pointer
+*looks exactly like a feature in dim light and on a Friday.*
