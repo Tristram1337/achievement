@@ -777,3 +777,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0258 — The Earnest Dangling Closure
 *answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
+
+## #0259 — The Boisterous Memory Leak
+*exists in superposition of fixed and broken until observed by the CI runner.*
