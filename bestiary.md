@@ -441,3 +441,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0146 — The Quixotic Buffer Overrun
 *summoned by merging without reading the diff, banished only by a polite email to the original author.*
+
+## #0147 — The Inscrutable Dangling Closure
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
