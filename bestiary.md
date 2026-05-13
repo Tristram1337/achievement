@@ -507,3 +507,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0168 — The Earnest Type Confusion
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0169 — The Recursive Null Reference
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
