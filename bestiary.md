@@ -408,3 +408,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0135 — The Jocose Off-by-One
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0136 — The Inevitable Phantom Read
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
