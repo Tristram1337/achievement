@@ -162,3 +162,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0053 — The Apathetic Stack Overflow
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0054 — The Restless Lost Update
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
