@@ -102,3 +102,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0033 — The Insomniac Null Reference
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0034 — The Jocose Type Confusion
+*exists in superposition of fixed and broken until observed by the CI runner.*
