@@ -168,3 +168,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0055 — The Mendacious Stack Overflow
 *feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
+
+## #0056 — The Obdurate Pointer
+*smells faintly of fresh coffee and old printer ink.*
