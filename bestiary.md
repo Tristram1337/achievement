@@ -564,3 +564,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0187 — The Sardonic Race Condition
 *summoned by merging without reading the diff, banished only by a polite email to the original author.*
+
+## #0188 — The Obdurate Integer Underflow
+*haunts the codebase between long weekends, fed by TODOs older than the company.*
