@@ -213,3 +213,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0070 — The Garrulous Memory Leak
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0071 — The Fastidious Cache Miss
+*haunts the codebase between release-freeze windows, fed by skipped tests.*
