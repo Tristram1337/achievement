@@ -246,3 +246,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0081 — The Yearning Type Confusion
 *feeds on tabs that should be spaces and exhales stack traces in three encodings at once.*
+
+## #0082 — The Melancholic Integer Underflow
+*smells faintly of fresh coffee and old printer ink.*
