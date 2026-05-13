@@ -474,3 +474,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0157 — The Whispering Memory Leak
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0158 — The Indolent Cache Miss
+*speaks only in stack traces, and only to those who already understand them.*
