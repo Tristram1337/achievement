@@ -765,3 +765,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0254 — The Stoic Lost Update
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0255 — The Insolent Use-After-Free
+*haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
