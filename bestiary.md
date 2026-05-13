@@ -228,3 +228,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0075 — The Effulgent Pointer
 *manifests only when nobody is looking; vanishes the moment you blame the intern.*
+
+## #0076 — The Vexatious Pointer
+*smells faintly of fresh coffee and old printer ink.*
