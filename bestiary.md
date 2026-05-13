@@ -66,3 +66,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0021 — The Kindred Phantom Read
 *manifests only when nobody is looking; vanishes the moment you explain it to a rubber duck.*
+
+## #0022 — The Fastidious Use-After-Free
+*summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
