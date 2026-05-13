@@ -222,3 +222,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0073 — The Capricious Off-by-One
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0074 — The Mendacious Type Confusion
+*speaks only in stack traces, and only to those who already understand them.*
