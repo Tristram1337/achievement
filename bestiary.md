@@ -417,3 +417,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0138 — The Pedantic Memory Leak
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0139 — The Vain Buffer Overrun
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
