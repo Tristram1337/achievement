@@ -270,3 +270,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0089 — The Effulgent Buffer Overrun
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0090 — The Mercurial Heap Corruption
+*answers only to those who can name every Rust lifetime thrice without pausing.*
