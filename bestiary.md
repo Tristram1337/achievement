@@ -69,3 +69,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0022 — The Fastidious Use-After-Free
 *summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
+
+## #0023 — The Jocose Phantom Read
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
