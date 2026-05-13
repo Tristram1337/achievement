@@ -774,3 +774,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0257 — The Hirsute Integer Underflow
 *manifests only when the on-call phone is muted; vanishes the moment you write a regression test.*
+
+## #0258 — The Earnest Dangling Closure
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
