@@ -150,3 +150,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0049 — The Obstinate Off-by-One
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0050 — The Diffident Lost Update
+*spawns from the union of two functions that have never been on speaking terms.*
