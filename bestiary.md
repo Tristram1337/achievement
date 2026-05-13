@@ -123,3 +123,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0040 — The Cantankerous Memory Leak
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0041 — The Indolent Pointer
+*looks exactly like a feature in dim light and on a Friday.*
