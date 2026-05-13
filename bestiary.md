@@ -477,3 +477,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0158 — The Indolent Cache Miss
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0159 — The Wistful Off-by-One
+*looks exactly like a feature in dim light and on a Friday.*
