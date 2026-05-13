@@ -702,3 +702,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0233 — The Unctuous Stack Overflow
 *summoned by deploying on a Friday, banished only by a polite email to the original author.*
+
+## #0234 — The Stoic Null Reference
+*thrives in untyped contexts and withers in the presence of a linter.*
