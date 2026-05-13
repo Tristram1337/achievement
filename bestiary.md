@@ -120,3 +120,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0039 — The Vain Stack Overflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0040 — The Cantankerous Memory Leak
+*thrives in untyped contexts and withers in the presence of a linter.*
