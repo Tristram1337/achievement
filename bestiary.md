@@ -219,3 +219,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0072 — The Pernicious Type Confusion
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0073 — The Capricious Off-by-One
+*speaks only in stack traces, and only to those who already understand them.*
