@@ -315,3 +315,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0104 — The Hirsute Type Confusion
 *summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
+
+## #0105 — The Sanguine Cache Miss
+*thrives in untyped contexts and withers in the presence of a linter.*
