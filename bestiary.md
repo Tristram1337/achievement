@@ -282,3 +282,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0093 — The Whispering Stack Overflow
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0094 — The Lonely Off-by-One
+*answers only to those who can name every Rust lifetime thrice without pausing.*
