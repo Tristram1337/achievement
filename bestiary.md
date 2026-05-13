@@ -207,3 +207,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0068 — The Restless Null Reference
 *haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
+
+## #0069 — The Obstinate Use-After-Free
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
