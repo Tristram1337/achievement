@@ -99,3 +99,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0032 — The Stoic Heap Corruption
 *answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
+
+## #0033 — The Insomniac Null Reference
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
