@@ -141,3 +141,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0046 — The Maudlin Buffer Overrun
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0047 — The Furtive Cache Miss
+*summoned by a force-push at 17:01, banished only by rebooting the printer.*
