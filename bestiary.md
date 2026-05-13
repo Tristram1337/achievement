@@ -633,3 +633,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0210 — The Fastidious Off-by-One
 *answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
+
+## #0211 — The Effervescent Pointer
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
