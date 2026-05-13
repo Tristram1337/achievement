@@ -705,3 +705,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0234 — The Stoic Null Reference
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0235 — The Unctuous Use-After-Free
+*feeds on tabs that should be spaces and exhales TODO comments.*
