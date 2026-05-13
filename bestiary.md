@@ -144,3 +144,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0047 — The Furtive Cache Miss
 *summoned by a force-push at 17:01, banished only by rebooting the printer.*
+
+## #0048 — The Truculent Dangling Closure
+*looks exactly like a feature in dim light and on a Friday.*
