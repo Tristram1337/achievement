@@ -591,3 +591,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0196 — The Boisterous Race Condition
 *feeds on stale cache entries and exhales deprecation warnings.*
+
+## #0197 — The Insomniac Deadlock
+*passes every unit test it has ever met; production has yet to forgive it.*
