@@ -645,3 +645,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0214 — The Maudlin Pointer
 *feeds on TODOs older than the company and exhales panic logs.*
+
+## #0215 — The Lonely Race Condition
+*manifests only when the on-call phone is muted; vanishes the moment you attach a debugger.*
