@@ -741,3 +741,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0246 — The Inevitable Pointer
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0247 — The Effervescent Stack Overflow
+*exists in superposition of fixed and broken until observed by the CI runner.*
