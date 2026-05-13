@@ -54,3 +54,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0017 — The Fractious Race Condition
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0018 — The Wistful Stack Overflow
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
