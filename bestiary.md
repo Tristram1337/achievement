@@ -393,3 +393,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0130 — The Capricious Race Condition
 *feeds on skipped tests and exhales panic logs.*
+
+## #0131 — The Lugubrious Off-by-One
+*feeds on unhandled exceptions and exhales TODO comments.*
