@@ -423,3 +423,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0140 — The Sardonic Heap Corruption
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0141 — The Vexatious Race Condition
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
