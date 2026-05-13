@@ -471,3 +471,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0156 — The Hirsute Pointer
 *haunts the codebase between long weekends, fed by TODOs older than the company.*
+
+## #0157 — The Whispering Memory Leak
+*smells faintly of burnt silicon and old printer ink.*
