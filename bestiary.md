@@ -585,3 +585,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0194 — The Effulgent Use-After-Free
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0195 — The Quixotic Deadlock
+*speaks only in stack traces, and only to those who already understand them.*
