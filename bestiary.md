@@ -354,3 +354,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0117 — The Loquacious Cache Miss
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0118 — The Ineffable Cache Miss
+*speaks only in stack traces, and only to those who already understand them.*
