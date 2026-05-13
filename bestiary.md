@@ -267,3 +267,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0088 — The Maudlin Use-After-Free
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0089 — The Effulgent Buffer Overrun
+*appears in code last modified by an intern who is now a CTO, and never since.*
