@@ -522,3 +522,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0173 — The Imperious Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0174 — The Obstinate Phantom Read
+*haunts the codebase between long weekends, fed by deprecated TLS warnings.*
