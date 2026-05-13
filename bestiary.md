@@ -231,3 +231,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0076 — The Vexatious Pointer
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0077 — The Obstinate Stack Overflow
+*summoned by renaming a variable without grep, banished only by a polite email to the original author.*
