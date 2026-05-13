@@ -537,3 +537,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0178 — The Profligate Stack Overflow
 *is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
+
+## #0179 — The Maudlin Integer Underflow
+*feeds on deprecated TLS warnings and exhales panic logs.*
