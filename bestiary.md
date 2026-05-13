@@ -750,3 +750,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0249 — The Zealous Race Condition
 *feeds on off-by-one errors and exhales stack traces in three encodings at once.*
+
+## #0250 — The Jocose Deadlock
+*spawns from the union of two functions that have never been on speaking terms.*
