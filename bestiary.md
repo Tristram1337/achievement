@@ -264,3 +264,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0087 — The Furtive Stack Overflow
 *feeds on unhandled exceptions and exhales panic logs.*
+
+## #0088 — The Maudlin Use-After-Free
+*appears in code last modified by an intern who is now a CTO, and never since.*
