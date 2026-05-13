@@ -105,3 +105,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0034 — The Jocose Type Confusion
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0035 — The Bilious Memory Leak
+*summoned by a force-push at 17:01, banished only by writing a postmortem and quietly filing it away.*
