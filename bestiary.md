@@ -621,3 +621,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0206 — The Inevitable Off-by-One
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0207 — The Gregarious Pointer
+*manifests only when the moon is full; vanishes the moment you open the file.*
