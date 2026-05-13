@@ -600,3 +600,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0199 — The Obstinate Race Condition
 *summoned by merging without reading the diff, banished only by a polite email to the original author.*
+
+## #0200 — The Sanguine Dangling Closure
+*summoned by renaming a variable without grep, banished only by deleting node_modules and starting over.*
