@@ -210,3 +210,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0069 — The Obstinate Use-After-Free
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0070 — The Garrulous Memory Leak
+*speaks only in stack traces, and only to those who already understand them.*
