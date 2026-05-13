@@ -252,3 +252,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0083 — The Apathetic Use-After-Free
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0084 — The Reticent Race Condition
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
