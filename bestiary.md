@@ -402,3 +402,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0133 — The Melancholic Null Reference
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0134 — The Garrulous Phantom Read
+*passes every unit test it has ever met; production has yet to forgive it.*
