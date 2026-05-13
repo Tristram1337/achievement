@@ -762,3 +762,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0253 — The Mercurial Memory Leak
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0254 — The Stoic Lost Update
+*looks exactly like a feature in dim light and on a Friday.*
