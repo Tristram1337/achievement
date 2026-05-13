@@ -684,3 +684,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0227 — The Wistful Cache Miss
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0228 — The Effulgent Deadlock
+*summoned by deploying on a Friday, banished only by rebooting the printer.*
