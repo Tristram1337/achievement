@@ -579,3 +579,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0192 — The Garrulous Stack Overflow
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0193 — The Insolent Race Condition
+*haunts the codebase between long weekends, fed by skipped tests.*
