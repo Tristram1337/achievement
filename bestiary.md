@@ -726,3 +726,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0241 — The Melancholic Cache Miss
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0242 — The Gregarious Deadlock
+*spawns from the union of two functions that have never been on speaking terms.*
