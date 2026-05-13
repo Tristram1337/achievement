@@ -768,3 +768,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0255 — The Insolent Use-After-Free
 *haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
+
+## #0256 — The Boisterous Stack Overflow
+*manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
