@@ -189,3 +189,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0062 — The Garrulous Integer Underflow
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0063 — The Saturnine Phantom Read
+*haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
