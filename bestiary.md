@@ -180,3 +180,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0059 — The Profligate Null Reference
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0060 — The Hapless Use-After-Free
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
