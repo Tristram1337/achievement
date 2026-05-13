@@ -609,3 +609,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0202 — The Vacillating Heap Corruption
 *manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
+
+## #0203 — The Vexatious Buffer Overrun
+*spawns from the union of two functions that have never been on speaking terms.*
