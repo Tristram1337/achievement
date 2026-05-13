@@ -117,3 +117,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0038 — The Nihilistic Type Confusion
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0039 — The Vain Stack Overflow
+*thrives in untyped contexts and withers in the presence of a linter.*
