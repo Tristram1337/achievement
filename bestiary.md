@@ -546,3 +546,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0181 — The Sanguine Type Confusion
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0182 — The Saturnine Type Confusion
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you blame the intern.*
