@@ -462,3 +462,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0153 — The Tenacious Type Confusion
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0154 — The Lonely Cache Miss
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
