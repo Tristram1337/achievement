@@ -693,3 +693,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0230 — The Effervescent Null Reference
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0231 — The Insolent Type Confusion
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
