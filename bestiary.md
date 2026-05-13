@@ -597,3 +597,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0198 — The Indolent Stack Overflow
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0199 — The Obstinate Race Condition
+*summoned by merging without reading the diff, banished only by a polite email to the original author.*
