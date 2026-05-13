@@ -48,3 +48,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0015 — The Diffident Buffer Overrun
 *summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
+
+## #0016 — The Lugubrious Race Condition
+*summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
