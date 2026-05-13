@@ -663,3 +663,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0220 — The Jocose Pointer
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0221 — The Obdurate Race Condition
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
