@@ -606,3 +606,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0201 — The Garrulous Lost Update
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0202 — The Vacillating Heap Corruption
+*manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
