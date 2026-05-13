@@ -153,3 +153,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0050 — The Diffident Lost Update
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0051 — The Imperious Dangling Closure
+*feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
