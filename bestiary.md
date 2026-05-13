@@ -648,3 +648,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0215 — The Lonely Race Condition
 *manifests only when the on-call phone is muted; vanishes the moment you attach a debugger.*
+
+## #0216 — The Yearning Null Reference
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
