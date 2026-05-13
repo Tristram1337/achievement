@@ -237,3 +237,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0078 — The Recursive Phantom Read
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0079 — The Vain Phantom Read
+*looks exactly like a feature in dim light and on a Friday.*
