@@ -369,3 +369,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0122 — The Stoic Integer Underflow
 *feeds on skipped tests and exhales passive-aggressive code reviews.*
+
+## #0123 — The Earnest Integer Underflow
+*appears in code last modified by someone who left in 2014, and never since.*
