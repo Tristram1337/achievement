@@ -447,3 +447,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0148 — The Dolorous Heap Corruption
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0149 — The Furtive Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
