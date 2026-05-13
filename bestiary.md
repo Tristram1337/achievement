@@ -531,3 +531,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0176 — The Fractious Off-by-One
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0177 — The Petulant Phantom Read
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
