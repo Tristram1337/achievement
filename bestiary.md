@@ -480,3 +480,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0159 — The Wistful Off-by-One
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0160 — The Obsequious Deadlock
+*feeds on TODOs older than the company and exhales TODO comments.*
