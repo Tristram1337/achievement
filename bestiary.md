@@ -396,3 +396,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0131 — The Lugubrious Off-by-One
 *feeds on unhandled exceptions and exhales TODO comments.*
+
+## #0132 — The Insomniac Race Condition
+*looks exactly like a feature in dim light and on a Friday.*
