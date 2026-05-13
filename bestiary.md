@@ -297,3 +297,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0098 — The Indolent Deadlock
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0099 — The Hirsute Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
