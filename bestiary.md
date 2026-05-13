@@ -519,3 +519,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0172 — The Wistful Integer Underflow
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0173 — The Imperious Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
