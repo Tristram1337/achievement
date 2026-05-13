@@ -75,3 +75,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0024 — The Gregarious Null Reference
 *summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
+
+## #0025 — The Drunken Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
