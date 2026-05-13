@@ -78,3 +78,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0025 — The Drunken Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0026 — The Bombastic Memory Leak
+*haunts the codebase between 02:00 and 04:00 UTC, fed by stale cache entries.*
