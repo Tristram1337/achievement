@@ -438,3 +438,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0145 — The Zealous Heap Corruption
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0146 — The Quixotic Buffer Overrun
+*summoned by merging without reading the diff, banished only by a polite email to the original author.*
