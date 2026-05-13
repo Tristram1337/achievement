@@ -51,3 +51,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0016 — The Lugubrious Race Condition
 *summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
+
+## #0017 — The Fractious Race Condition
+*looks exactly like a feature in dim light and on a Friday.*
