@@ -543,3 +543,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0180 — The Loquacious Stack Overflow
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0181 — The Sanguine Type Confusion
+*passes every unit test it has ever met; production has yet to forgive it.*
