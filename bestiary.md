@@ -351,3 +351,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0116 — The Effervescent Dangling Closure
 *feeds on stale cache entries and exhales TODO comments.*
+
+## #0117 — The Loquacious Cache Miss
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
