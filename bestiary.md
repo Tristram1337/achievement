@@ -573,3 +573,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0190 — The Hirsute Lost Update
 *feeds on TODOs older than the company and exhales stack traces in three encodings at once.*
+
+## #0191 — The Hirsute Buffer Overrun
+*exists in superposition of fixed and broken until observed by the CI runner.*
