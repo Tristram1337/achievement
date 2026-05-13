@@ -33,3 +33,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0010 — The Petulant Cache Miss
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0011 — The Stochastic Phantom Read
+*exists in superposition of fixed and broken until observed by the CI runner.*
