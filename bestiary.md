@@ -261,3 +261,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0086 — The Bilious Pointer
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0087 — The Furtive Stack Overflow
+*feeds on unhandled exceptions and exhales panic logs.*
