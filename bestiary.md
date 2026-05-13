@@ -759,3 +759,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0252 — The Vacillating Off-by-One
 *smells faintly of static electricity and old printer ink.*
+
+## #0253 — The Mercurial Memory Leak
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
