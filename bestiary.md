@@ -36,3 +36,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0011 — The Stochastic Phantom Read
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0012 — The Recursive Race Condition
+*exists in superposition of fixed and broken until observed by the CI runner.*
