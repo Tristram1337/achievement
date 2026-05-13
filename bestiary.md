@@ -84,3 +84,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0027 — The Wanton Buffer Overrun
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0028 — The Indolent Type Confusion
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
