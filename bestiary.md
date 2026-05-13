@@ -216,3 +216,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0071 — The Fastidious Cache Miss
 *haunts the codebase between release-freeze windows, fed by skipped tests.*
+
+## #0072 — The Pernicious Type Confusion
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
