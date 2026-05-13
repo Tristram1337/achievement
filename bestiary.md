@@ -660,3 +660,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0219 — The Fractious Heap Corruption
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0220 — The Jocose Pointer
+*smells faintly of burnt silicon and old printer ink.*
