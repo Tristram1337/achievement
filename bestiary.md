@@ -525,3 +525,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0174 — The Obstinate Phantom Read
 *haunts the codebase between long weekends, fed by deprecated TLS warnings.*
+
+## #0175 — The Effulgent Null Reference
+*exists in superposition of fixed and broken until observed by the CI runner.*
