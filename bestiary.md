@@ -675,3 +675,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0224 — The Loquacious Buffer Overrun
 *haunts the codebase between long weekends, fed by deprecated TLS warnings.*
+
+## #0225 — The Drunken Integer Underflow
+*appears in code last modified by someone who left in 2014, and never since.*
