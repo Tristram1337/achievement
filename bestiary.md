@@ -708,3 +708,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0235 — The Unctuous Use-After-Free
 *feeds on tabs that should be spaces and exhales TODO comments.*
+
+## #0236 — The Mercurial Dangling Closure
+*passes every unit test it has ever met; production has yet to forgive it.*
