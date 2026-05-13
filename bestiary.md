@@ -618,3 +618,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0205 — The Fastidious Integer Underflow
 *feeds on TODOs older than the company and exhales deprecation warnings.*
+
+## #0206 — The Inevitable Off-by-One
+*spawns from the union of two functions that have never been on speaking terms.*
