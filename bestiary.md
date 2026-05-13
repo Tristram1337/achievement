@@ -444,3 +444,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0147 — The Inscrutable Dangling Closure
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0148 — The Dolorous Heap Corruption
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
