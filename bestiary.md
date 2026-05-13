@@ -312,3 +312,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0103 — The Ineffable Memory Leak
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0104 — The Hirsute Type Confusion
+*summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
