@@ -45,3 +45,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0014 — The Sanguine Integer Underflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0015 — The Diffident Buffer Overrun
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
