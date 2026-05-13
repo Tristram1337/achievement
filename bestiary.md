@@ -636,3 +636,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0211 — The Effervescent Pointer
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0212 — The Apathetic Deadlock
+*looks exactly like a feature in dim light and on a Friday.*
