@@ -183,3 +183,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0060 — The Hapless Use-After-Free
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0061 — The Maudlin Off-by-One
+*feeds on stale cache entries and exhales deprecation warnings.*
