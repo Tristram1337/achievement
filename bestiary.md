@@ -90,3 +90,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0029 — The Stochastic Integer Underflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0030 — The Furtive Buffer Overrun
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
