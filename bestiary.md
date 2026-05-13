@@ -657,3 +657,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0218 — The Truculent Use-After-Free
 *feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
+
+## #0219 — The Fractious Heap Corruption
+*looks exactly like a feature in dim light and on a Friday.*
