@@ -156,3 +156,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0051 — The Imperious Dangling Closure
 *feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
+
+## #0052 — The Querulous Heap Corruption
+*thrives in untyped contexts and withers in the presence of a linter.*
