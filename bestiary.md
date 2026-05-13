@@ -285,3 +285,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0094 — The Lonely Off-by-One
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0095 — The Saturnine Deadlock
+*is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
