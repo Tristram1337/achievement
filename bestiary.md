@@ -729,3 +729,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0242 — The Gregarious Deadlock
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0243 — The Vacillating Pointer
+*passes every unit test it has ever met; production has yet to forgive it.*
