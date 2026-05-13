@@ -342,3 +342,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0113 — The Mercurial Use-After-Free
 *is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
+
+## #0114 — The Bombastic Cache Miss
+*spawns from the union of two functions that have never been on speaking terms.*
