@@ -420,3 +420,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0139 — The Vain Buffer Overrun
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0140 — The Sardonic Heap Corruption
+*appears in code last modified by the founder, on their last day, and never since.*
