@@ -249,3 +249,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0082 — The Melancholic Integer Underflow
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0083 — The Apathetic Use-After-Free
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
