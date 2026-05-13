@@ -426,3 +426,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0141 — The Vexatious Race Condition
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0142 — The Mercurial Pointer
+*exists in superposition of fixed and broken until observed by the CI runner.*
