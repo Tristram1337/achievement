@@ -429,3 +429,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0142 — The Mercurial Pointer
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0143 — The Bilious Phantom Read
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
