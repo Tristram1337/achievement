@@ -27,3 +27,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0008 — The Imperious Stack Overflow
 *smells faintly of static electricity and old printer ink.*
+
+## #0009 — The Garrulous Type Confusion
+*feeds on unhandled exceptions and exhales TODO comments.*
