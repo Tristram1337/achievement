@@ -174,3 +174,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0057 — The Stochastic Race Condition
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0058 — The Gregarious Use-After-Free
+*exists in superposition of fixed and broken until observed by the CI runner.*
