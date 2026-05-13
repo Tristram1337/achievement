@@ -39,3 +39,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0012 — The Recursive Race Condition
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0013 — The Wanton Type Confusion
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
