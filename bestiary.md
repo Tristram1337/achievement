@@ -21,3 +21,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0006 — The Petulant Off-by-One
 *summoned by running tests in the wrong directory, banished only by a polite email to the original author.*
+
+## #0007 — The Effervescent Heap Corruption
+*manifests only when two interns argue about indentation; vanishes the moment you attach a debugger.*
