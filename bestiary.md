@@ -492,3 +492,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0163 — The Fastidious Phantom Read
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0164 — The Insolent Lost Update
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
