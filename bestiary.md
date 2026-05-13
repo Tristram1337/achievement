@@ -651,3 +651,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0216 — The Yearning Null Reference
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0217 — The Loquacious Memory Leak
+*haunts the codebase between midnight on Sundays, fed by skipped tests.*
