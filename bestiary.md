@@ -225,3 +225,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0074 — The Mendacious Type Confusion
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0075 — The Effulgent Pointer
+*manifests only when nobody is looking; vanishes the moment you blame the intern.*
