@@ -468,3 +468,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0155 — The Petulant Memory Leak
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0156 — The Hirsute Pointer
+*haunts the codebase between long weekends, fed by TODOs older than the company.*
