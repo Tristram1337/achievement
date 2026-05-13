@@ -129,3 +129,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0042 — The Nihilistic Off-by-One
 *summoned by running tests in the wrong directory, banished only by rebooting the printer.*
+
+## #0043 — The Earnest Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
