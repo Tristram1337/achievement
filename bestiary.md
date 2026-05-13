@@ -240,3 +240,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0079 — The Vain Phantom Read
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0080 — The Diffident Stack Overflow
+*summoned by a force-push at 17:01, banished only by a complete rewrite in Rust.*
