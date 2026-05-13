@@ -30,3 +30,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0009 — The Garrulous Type Confusion
 *feeds on unhandled exceptions and exhales TODO comments.*
+
+## #0010 — The Petulant Cache Miss
+*answers only to those who can name every Rust lifetime thrice without pausing.*
