@@ -135,3 +135,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0044 — The Bilious Lost Update
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0045 — The Obsequious Pointer
+*manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
