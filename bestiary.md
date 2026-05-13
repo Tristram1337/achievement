@@ -192,3 +192,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0063 — The Saturnine Phantom Read
 *haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
+
+## #0064 — The Querulous Integer Underflow
+*answers only to those who can explain monads to a CFO thrice without pausing.*
