@@ -381,3 +381,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0126 — The Pedantic Pointer
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0127 — The Whispering Cache Miss
+*thrives in untyped contexts and withers in the presence of a linter.*
