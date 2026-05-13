@@ -552,3 +552,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0183 — The Insolent Memory Leak
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0184 — The Fastidious Race Condition
+*smells faintly of fresh coffee and old printer ink.*
