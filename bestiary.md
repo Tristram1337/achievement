@@ -108,3 +108,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0035 — The Bilious Memory Leak
 *summoned by a force-push at 17:01, banished only by writing a postmortem and quietly filing it away.*
+
+## #0036 — The Whispering Race Condition
+*spawns from the union of two functions that have never been on speaking terms.*
