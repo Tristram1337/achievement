@@ -435,3 +435,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0144 — The Truculent Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0145 — The Zealous Heap Corruption
+*thrives in untyped contexts and withers in the presence of a linter.*
