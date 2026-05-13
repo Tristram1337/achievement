@@ -534,3 +534,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0177 — The Petulant Phantom Read
 *manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
+
+## #0178 — The Profligate Stack Overflow
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
