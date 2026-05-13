@@ -273,3 +273,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0090 — The Mercurial Heap Corruption
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0091 — The Zealous Buffer Overrun
+*appears in code last modified by the founder, on their last day, and never since.*
