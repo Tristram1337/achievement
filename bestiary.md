@@ -57,3 +57,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0018 — The Wistful Stack Overflow
 *is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
+
+## #0019 — The Bombastic Dangling Closure
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
