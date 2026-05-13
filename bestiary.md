@@ -294,3 +294,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0097 — The Vain Memory Leak
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0098 — The Indolent Deadlock
+*speaks only in stack traces, and only to those who already understand them.*
