@@ -513,3 +513,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0170 — The Restless Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0171 — The Restless Dangling Closure
+*is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
