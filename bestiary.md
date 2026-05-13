@@ -555,3 +555,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0184 — The Fastidious Race Condition
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0185 — The Pernicious Race Condition
+*feeds on unhandled exceptions and exhales deprecation warnings.*
