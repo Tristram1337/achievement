@@ -177,3 +177,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0058 — The Gregarious Use-After-Free
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0059 — The Profligate Null Reference
+*thrives in untyped contexts and withers in the presence of a linter.*
