@@ -486,3 +486,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0161 — The Insomniac Use-After-Free
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0162 — The Lonely Lost Update
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
