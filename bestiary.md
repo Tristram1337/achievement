@@ -384,3 +384,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0127 — The Whispering Cache Miss
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0128 — The Inscrutable Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
