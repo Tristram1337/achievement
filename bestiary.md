@@ -696,3 +696,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0231 — The Insolent Type Confusion
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0232 — The Recursive Type Confusion
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
