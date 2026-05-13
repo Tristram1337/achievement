@@ -255,3 +255,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0084 — The Reticent Race Condition
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0085 — The Yearning Use-After-Free
+*feeds on unhandled exceptions and exhales passive-aggressive code reviews.*
