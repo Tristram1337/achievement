@@ -654,3 +654,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0217 — The Loquacious Memory Leak
 *haunts the codebase between midnight on Sundays, fed by skipped tests.*
+
+## #0218 — The Truculent Use-After-Free
+*feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
