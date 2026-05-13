@@ -504,3 +504,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0167 — The Vain Pointer
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0168 — The Earnest Type Confusion
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
