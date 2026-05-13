@@ -753,3 +753,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0250 — The Jocose Deadlock
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0251 — The Hapless Buffer Overrun
+*smells faintly of static electricity and old printer ink.*
