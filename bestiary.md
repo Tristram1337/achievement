@@ -582,3 +582,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0193 — The Insolent Race Condition
 *haunts the codebase between long weekends, fed by skipped tests.*
+
+## #0194 — The Effulgent Use-After-Free
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
