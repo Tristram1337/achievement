@@ -348,3 +348,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0115 — The Melancholic Stack Overflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0116 — The Effervescent Dangling Closure
+*feeds on stale cache entries and exhales TODO comments.*
