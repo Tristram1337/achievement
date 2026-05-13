@@ -111,3 +111,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0036 — The Whispering Race Condition
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0037 — The Jocose Stack Overflow
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
