@@ -114,3 +114,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0037 — The Jocose Stack Overflow
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0038 — The Nihilistic Type Confusion
+*passes every unit test it has ever met; production has yet to forgive it.*
