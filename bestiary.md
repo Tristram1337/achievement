@@ -234,3 +234,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0077 — The Obstinate Stack Overflow
 *summoned by renaming a variable without grep, banished only by a polite email to the original author.*
+
+## #0078 — The Recursive Phantom Read
+*appears in code last modified by someone who left in 2014, and never since.*
