@@ -372,3 +372,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0123 — The Earnest Integer Underflow
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0124 — The Inscrutable Deadlock
+*haunts the codebase between midnight on Sundays, fed by unhandled exceptions.*
