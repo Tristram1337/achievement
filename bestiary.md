@@ -357,3 +357,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0118 — The Ineffable Cache Miss
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0119 — The Truculent Memory Leak
+*spawns from the union of two functions that have never been on speaking terms.*
