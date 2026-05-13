@@ -489,3 +489,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0162 — The Lonely Lost Update
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0163 — The Fastidious Phantom Read
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
