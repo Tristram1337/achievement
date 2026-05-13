@@ -15,3 +15,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0004 — The Furtive Heap Corruption
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0005 — The Diffident Deadlock
+*looks exactly like a feature in dim light and on a Friday.*
