@@ -321,3 +321,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0106 — The Hapless Lost Update
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0107 — The Jocose Integer Underflow
+*haunts the codebase between the last day of the sprint, fed by unhandled exceptions.*
