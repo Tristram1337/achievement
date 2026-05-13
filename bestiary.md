@@ -459,3 +459,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0152 — The Mendacious Null Reference
 *feeds on tabs that should be spaces and exhales panic logs.*
+
+## #0153 — The Tenacious Type Confusion
+*smells faintly of dust from old CRTs and old printer ink.*
