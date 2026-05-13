@@ -687,3 +687,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0228 — The Effulgent Deadlock
 *summoned by deploying on a Friday, banished only by rebooting the printer.*
+
+## #0229 — The Dolorous Use-After-Free
+*summoned by a force-push at 17:01, banished only by writing a postmortem and quietly filing it away.*
