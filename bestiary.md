@@ -576,3 +576,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0191 — The Hirsute Buffer Overrun
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0192 — The Garrulous Stack Overflow
+*spawns from the union of two functions that have never been on speaking terms.*
