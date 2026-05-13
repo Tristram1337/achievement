@@ -717,3 +717,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0238 — The Yearning Integer Underflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0239 — The Imperious Deadlock
+*spawns from the union of two functions that have never been on speaking terms.*
