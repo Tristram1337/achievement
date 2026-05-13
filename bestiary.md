@@ -747,3 +747,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0248 — The Earnest Cache Miss
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0249 — The Zealous Race Condition
+*feeds on off-by-one errors and exhales stack traces in three encodings at once.*
