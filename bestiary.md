@@ -744,3 +744,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0247 — The Effervescent Stack Overflow
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0248 — The Earnest Cache Miss
+*thrives in untyped contexts and withers in the presence of a linter.*
