@@ -42,3 +42,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0013 — The Wanton Type Confusion
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0014 — The Sanguine Integer Underflow
+*passes every unit test it has ever met; production has yet to forgive it.*
