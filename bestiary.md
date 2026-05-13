@@ -672,3 +672,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0223 — The Bilious Integer Underflow
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0224 — The Loquacious Buffer Overrun
+*haunts the codebase between long weekends, fed by deprecated TLS warnings.*
