@@ -612,3 +612,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0203 — The Vexatious Buffer Overrun
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0204 — The Obdurate Type Confusion
+*looks exactly like a feature in dim light and on a Friday.*
