@@ -87,3 +87,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0028 — The Indolent Type Confusion
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0029 — The Stochastic Integer Underflow
+*looks exactly like a feature in dim light and on a Friday.*
