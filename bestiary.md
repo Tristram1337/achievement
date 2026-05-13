@@ -681,3 +681,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0226 — The Stoic Memory Leak
 *feeds on TODOs older than the company and exhales TODO comments.*
+
+## #0227 — The Wistful Cache Miss
+*appears in code last modified by an intern who is now a CTO, and never since.*
