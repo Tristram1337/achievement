@@ -699,3 +699,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0232 — The Recursive Type Confusion
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0233 — The Unctuous Stack Overflow
+*summoned by deploying on a Friday, banished only by a polite email to the original author.*
