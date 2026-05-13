@@ -324,3 +324,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0107 — The Jocose Integer Underflow
 *haunts the codebase between the last day of the sprint, fed by unhandled exceptions.*
+
+## #0108 — The Vacillating Phantom Read
+*haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
