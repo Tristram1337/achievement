@@ -165,3 +165,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0054 — The Restless Lost Update
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0055 — The Mendacious Stack Overflow
+*feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
