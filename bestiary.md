@@ -528,3 +528,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0175 — The Effulgent Null Reference
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0176 — The Fractious Off-by-One
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
