@@ -258,3 +258,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0085 — The Yearning Use-After-Free
 *feeds on unhandled exceptions and exhales passive-aggressive code reviews.*
+
+## #0086 — The Bilious Pointer
+*thrives in untyped contexts and withers in the presence of a linter.*
