@@ -738,3 +738,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0245 — The Stochastic Buffer Overrun
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0246 — The Inevitable Pointer
+*looks exactly like a feature in dim light and on a Friday.*
