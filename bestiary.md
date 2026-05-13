@@ -567,3 +567,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0188 — The Obdurate Integer Underflow
 *haunts the codebase between long weekends, fed by TODOs older than the company.*
+
+## #0189 — The Melancholic Phantom Read
+*smells faintly of dust from old CRTs and old printer ink.*
