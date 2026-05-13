@@ -243,3 +243,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0080 — The Diffident Stack Overflow
 *summoned by a force-push at 17:01, banished only by a complete rewrite in Rust.*
+
+## #0081 — The Yearning Type Confusion
+*feeds on tabs that should be spaces and exhales stack traces in three encodings at once.*
