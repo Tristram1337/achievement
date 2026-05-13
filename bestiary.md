@@ -411,3 +411,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0136 — The Inevitable Phantom Read
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0137 — The Melancholic Deadlock
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
