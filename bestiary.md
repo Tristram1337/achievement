@@ -171,3 +171,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0056 — The Obdurate Pointer
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0057 — The Stochastic Race Condition
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
