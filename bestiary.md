@@ -2733,3 +2733,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0910 — The Reticent Heap Corruption
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0911 — The Profligate Integer Underflow
+*spawns from the union of two functions that have never been on speaking terms.*
