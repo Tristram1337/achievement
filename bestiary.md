@@ -2538,3 +2538,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0845 — The Obstinate Cache Miss
 *feeds on deprecated TLS warnings and exhales TODO comments.*
+
+## #0846 — The Dolorous Lost Update
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
