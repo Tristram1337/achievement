@@ -2772,3 +2772,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0923 — The Vacillating Buffer Overrun
 *manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
+
+## #0924 — The Kindred Null Reference
+*passes every unit test it has ever met; production has yet to forgive it.*
