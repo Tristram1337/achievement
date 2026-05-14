@@ -819,3 +819,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0272 — The Effervescent Buffer Overrun
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0273 — The Whispering Deadlock
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
