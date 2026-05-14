@@ -2964,3 +2964,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0987 — The Wanton Memory Leak
 *manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
+
+## #0988 — The Inevitable Stack Overflow
+*thrives in untyped contexts and withers in the presence of a linter.*
