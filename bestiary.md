@@ -3036,3 +3036,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1011 — The Quixotic Cache Miss
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #1012 — The Hirsute Dangling Closure
+*summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
