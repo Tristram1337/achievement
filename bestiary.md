@@ -1398,3 +1398,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0465 — The Obstinate Integer Underflow
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0466 — The Hapless Pointer
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
