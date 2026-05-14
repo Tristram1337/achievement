@@ -2691,3 +2691,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0896 — The Querulous Lost Update
 *haunts the codebase between the last day of the sprint, fed by TODOs older than the company.*
+
+## #0897 — The Yearning Off-by-One
+*appears in code last modified by an intern who is now a CTO, and never since.*
