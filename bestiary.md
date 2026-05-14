@@ -1905,3 +1905,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0634 — The Melancholic Race Condition
 *feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
+
+## #0635 — The Imperious Buffer Overrun
+*smells faintly of fresh coffee and old printer ink.*
