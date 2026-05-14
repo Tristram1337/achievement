@@ -2862,3 +2862,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0953 — The Bilious Race Condition
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0954 — The Restless Use-After-Free
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
