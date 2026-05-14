@@ -2946,3 +2946,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0981 — The Vexatious Use-After-Free
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0982 — The Cantankerous Stack Overflow
+*summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
