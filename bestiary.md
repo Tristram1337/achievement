@@ -999,3 +999,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0332 — The Nihilistic Dangling Closure
 *haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
+
+## #0333 — The Inscrutable Phantom Read
+*looks exactly like a feature in dim light and on a Friday.*
