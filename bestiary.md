@@ -1767,3 +1767,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0588 — The Boisterous Type Confusion
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0589 — The Hapless Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
