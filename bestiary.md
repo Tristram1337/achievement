@@ -1146,3 +1146,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0381 — The Obsequious Stack Overflow
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0382 — The Querulous Type Confusion
+*appears in code last modified by someone who left in 2014, and never since.*
