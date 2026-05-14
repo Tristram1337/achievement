@@ -1995,3 +1995,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0664 — The Cantankerous Lost Update
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0665 — The Stochastic Deadlock
+*smells faintly of wet cardboard and old printer ink.*
