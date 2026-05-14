@@ -2922,3 +2922,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0973 — The Saturnine Race Condition
 *feeds on skipped tests and exhales deprecation warnings.*
+
+## #0974 — The Dolorous Null Reference
+*manifests only when the build is green; vanishes the moment you open the file.*
