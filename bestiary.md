@@ -1908,3 +1908,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0635 — The Imperious Buffer Overrun
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0636 — The Querulous Dangling Closure
+*is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
