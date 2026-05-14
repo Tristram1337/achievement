@@ -2580,3 +2580,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0859 — The Earnest Null Reference
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0860 — The Pedantic Use-After-Free
+*passes every unit test it has ever met; production has yet to forgive it.*
