@@ -2274,3 +2274,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0757 — The Sanguine Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0758 — The Sanguine Use-After-Free
+*is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
