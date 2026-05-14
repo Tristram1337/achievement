@@ -3069,3 +3069,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1022 — The Mendacious Buffer Overrun
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #1023 — The Loquacious Null Reference
+*exists in superposition of fixed and broken until observed by the CI runner.*
