@@ -1716,3 +1716,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0571 — The Truculent Integer Underflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0572 — The Boisterous Cache Miss
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
