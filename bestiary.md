@@ -2544,3 +2544,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0847 — The Garrulous Deadlock
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0848 — The Dolorous Off-by-One
+*spawns from the union of two functions that have never been on speaking terms.*
