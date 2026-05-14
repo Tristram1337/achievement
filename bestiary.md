@@ -1086,3 +1086,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0361 — The Saturnine Heap Corruption
 *summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
+
+## #0362 — The Fastidious Lost Update
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
