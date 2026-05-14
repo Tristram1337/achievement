@@ -1758,3 +1758,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0585 — The Wistful Memory Leak
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0586 — The Earnest Heap Corruption
+*haunts the codebase between midnight on Sundays, fed by stale cache entries.*
