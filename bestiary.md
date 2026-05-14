@@ -1014,3 +1014,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0337 — The Insomniac Type Confusion
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0338 — The Capricious Lost Update
+*looks exactly like a feature in dim light and on a Friday.*
