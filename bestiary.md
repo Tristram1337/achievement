@@ -1641,3 +1641,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0546 — The Bombastic Phantom Read
 *feeds on tabs that should be spaces and exhales panic logs.*
+
+## #0547 — The Quixotic Lost Update
+*haunts the codebase between Friday afternoons, fed by off-by-one errors.*
