@@ -2064,3 +2064,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0687 — The Restless Cache Miss
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0688 — The Tenacious Stack Overflow
+*looks exactly like a feature in dim light and on a Friday.*
