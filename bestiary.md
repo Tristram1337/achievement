@@ -1734,3 +1734,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0577 — The Melancholic Buffer Overrun
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0578 — The Bilious Off-by-One
+*speaks only in stack traces, and only to those who already understand them.*
