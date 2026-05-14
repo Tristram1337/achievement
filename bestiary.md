@@ -2199,3 +2199,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0732 — The Inscrutable Stack Overflow
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0733 — The Fractious Type Confusion
+*feeds on off-by-one errors and exhales stack traces in three encodings at once.*
