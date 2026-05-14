@@ -1947,3 +1947,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0648 — The Bilious Dangling Closure
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0649 — The Indolent Lost Update
+*manifests only when the on-call phone is muted; vanishes the moment you explain it to a rubber duck.*
