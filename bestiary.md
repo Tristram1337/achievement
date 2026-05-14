@@ -2625,3 +2625,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0874 — The Pernicious Memory Leak
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0875 — The Cantankerous Deadlock
+*speaks only in stack traces, and only to those who already understand them.*
