@@ -1575,3 +1575,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0524 — The Bilious Type Confusion
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0525 — The Pernicious Stack Overflow
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
