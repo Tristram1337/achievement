@@ -2565,3 +2565,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0854 — The Vexatious Null Reference
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0855 — The Furtive Deadlock
+*manifests only when the build is green; vanishes the moment you explain it to a rubber duck.*
