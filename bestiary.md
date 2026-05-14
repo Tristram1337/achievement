@@ -2394,3 +2394,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0797 — The Recursive Integer Underflow
 *summoned by a force-push at 17:01, banished only by writing a postmortem and quietly filing it away.*
+
+## #0798 — The Obsequious Type Confusion
+*manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
