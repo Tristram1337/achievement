@@ -2493,3 +2493,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0830 — The Yearning Lost Update
 *haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
+
+## #0831 — The Inevitable Deadlock
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
