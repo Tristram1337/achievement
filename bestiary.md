@@ -1803,3 +1803,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0600 — The Tenacious Off-by-One
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0601 — The Insolent Buffer Overrun
+*thrives in untyped contexts and withers in the presence of a linter.*
