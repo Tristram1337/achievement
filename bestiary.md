@@ -2997,3 +2997,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0998 — The Apathetic Null Reference
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0999 — The Profligate Heap Corruption
+*passes every unit test it has ever met; production has yet to forgive it.*
