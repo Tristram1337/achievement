@@ -2382,3 +2382,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0793 — The Zealous Integer Underflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0794 — The Mercurial Off-by-One
+*haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
