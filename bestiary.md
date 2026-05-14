@@ -2796,3 +2796,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0931 — The Capricious Integer Underflow
 *manifests only when nobody is looking; vanishes the moment you call it a feature in standup.*
+
+## #0932 — The Truculent Deadlock
+*haunts the codebase between Friday afternoons, fed by off-by-one errors.*
