@@ -1689,3 +1689,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0562 — The Recursive Dangling Closure
 *haunts the codebase between Friday afternoons, fed by skipped tests.*
+
+## #0563 — The Indolent Race Condition
+*thrives in untyped contexts and withers in the presence of a linter.*
