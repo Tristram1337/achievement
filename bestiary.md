@@ -1914,3 +1914,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0637 — The Insomniac Integer Underflow
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0638 — The Bombastic Race Condition
+*appears in code last modified by the founder, on their last day, and never since.*
