@@ -1089,3 +1089,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0362 — The Fastidious Lost Update
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0363 — The Fractious Buffer Overrun
+*haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
