@@ -1143,3 +1143,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0380 — The Imperious Race Condition
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0381 — The Obsequious Stack Overflow
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
