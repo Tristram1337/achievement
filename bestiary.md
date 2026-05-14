@@ -2349,3 +2349,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0782 — The Maudlin Memory Leak
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0783 — The Garrulous Race Condition
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
