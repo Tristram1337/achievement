@@ -1755,3 +1755,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0584 — The Querulous Off-by-One
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0585 — The Wistful Memory Leak
+*looks exactly like a feature in dim light and on a Friday.*
