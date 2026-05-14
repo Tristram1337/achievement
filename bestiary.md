@@ -1941,3 +1941,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0646 — The Sanguine Pointer
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0647 — The Apathetic Heap Corruption
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
