@@ -2892,3 +2892,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0963 — The Bombastic Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0964 — The Inevitable Buffer Overrun
+*passes every unit test it has ever met; production has yet to forgive it.*
