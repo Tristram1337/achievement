@@ -1992,3 +1992,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0663 — The Whispering Buffer Overrun
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0664 — The Cantankerous Lost Update
+*looks exactly like a feature in dim light and on a Friday.*
