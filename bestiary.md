@@ -2694,3 +2694,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0897 — The Yearning Off-by-One
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0898 — The Jocose Cache Miss
+*summoned by a force-push at 17:01, banished only by a polite email to the original author.*
