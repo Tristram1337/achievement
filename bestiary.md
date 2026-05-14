@@ -2721,3 +2721,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0906 — The Unctuous Pointer
 *manifests only when the on-call phone is muted; vanishes the moment you call it a feature in standup.*
+
+## #0907 — The Gregarious Integer Underflow
+*looks exactly like a feature in dim light and on a Friday.*
