@@ -1194,3 +1194,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0397 — The Sardonic Lost Update
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0398 — The Apathetic Memory Leak
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
