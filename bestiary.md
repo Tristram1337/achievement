@@ -801,3 +801,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0266 — The Cantankerous Race Condition
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0267 — The Bilious Stack Overflow
+*feeds on stale cache entries and exhales passive-aggressive code reviews.*
