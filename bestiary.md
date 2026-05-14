@@ -2646,3 +2646,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0881 — The Saturnine Memory Leak
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0882 — The Melancholic Type Confusion
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
