@@ -2112,3 +2112,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0703 — The Boisterous Deadlock
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0704 — The Dolorous Type Confusion
+*smells faintly of burnt silicon and old printer ink.*
