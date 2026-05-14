@@ -1344,3 +1344,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0447 — The Earnest Use-After-Free
 *summoned by merging without reading the diff, banished only by writing a postmortem and quietly filing it away.*
+
+## #0448 — The Boisterous Heap Corruption
+*appears in code last modified by an intern who is now a CTO, and never since.*
