@@ -1410,3 +1410,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0469 — The Obdurate Memory Leak
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0470 — The Profligate Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
