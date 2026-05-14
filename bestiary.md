@@ -1239,3 +1239,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0412 — The Profligate Off-by-One
 *is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
+
+## #0413 — The Pernicious Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
