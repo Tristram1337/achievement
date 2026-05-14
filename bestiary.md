@@ -2688,3 +2688,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0895 — The Vacillating Integer Underflow
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0896 — The Querulous Lost Update
+*haunts the codebase between the last day of the sprint, fed by TODOs older than the company.*
