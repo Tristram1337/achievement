@@ -1617,3 +1617,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0538 — The Jocose Race Condition
 *is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
+
+## #0539 — The Insomniac Phantom Read
+*feeds on stale cache entries and exhales deprecation warnings.*
