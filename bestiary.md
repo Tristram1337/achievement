@@ -1488,3 +1488,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0495 — The Cantankerous Use-After-Free
 *manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
+
+## #0496 — The Diffident Race Condition
+*spawns from the union of two functions that have never been on speaking terms.*
