@@ -2229,3 +2229,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0742 — The Insomniac Off-by-One
 *haunts the codebase between long weekends, fed by stale cache entries.*
+
+## #0743 — The Earnest Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
