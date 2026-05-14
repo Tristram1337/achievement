@@ -1341,3 +1341,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0446 — The Garrulous Buffer Overrun
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0447 — The Earnest Use-After-Free
+*summoned by merging without reading the diff, banished only by writing a postmortem and quietly filing it away.*
