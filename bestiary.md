@@ -867,3 +867,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0288 — The Unctuous Integer Underflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0289 — The Mercurial Type Confusion
+*feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
