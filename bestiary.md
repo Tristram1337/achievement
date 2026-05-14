@@ -2055,3 +2055,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0684 — The Querulous Use-After-Free
 *manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
+
+## #0685 — The Restless Deadlock
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
