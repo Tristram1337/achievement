@@ -3048,3 +3048,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1015 — The Pedantic Integer Underflow
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #1016 — The Zealous Null Reference
+*passes every unit test it has ever met; production has yet to forgive it.*
