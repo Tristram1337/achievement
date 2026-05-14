@@ -2094,3 +2094,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0697 — The Mercurial Cache Miss
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0698 — The Nihilistic Race Condition
+*spawns from the union of two functions that have never been on speaking terms.*
