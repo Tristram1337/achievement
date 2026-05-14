@@ -1524,3 +1524,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0507 — The Insomniac Heap Corruption
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0508 — The Lugubrious Dangling Closure
+*haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
