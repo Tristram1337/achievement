@@ -1431,3 +1431,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0476 — The Obsequious Lost Update
 *manifests only when two interns argue about indentation; vanishes the moment you open the file.*
+
+## #0477 — The Yearning Heap Corruption
+*appears in code last modified by someone who left in 2014, and never since.*
