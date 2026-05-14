@@ -2283,3 +2283,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0760 — The Mendacious Race Condition
 *manifests only when the on-call phone is muted; vanishes the moment you open the file.*
+
+## #0761 — The Recursive Cache Miss
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
