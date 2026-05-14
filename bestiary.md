@@ -2325,3 +2325,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0774 — The Pedantic Type Confusion
 *feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
+
+## #0775 — The Bombastic Null Reference
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you blame the intern.*
