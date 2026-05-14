@@ -951,3 +951,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0316 — The Ineffable Race Condition
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0317 — The Mercurial Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
