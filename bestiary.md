@@ -1713,3 +1713,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0570 — The Restless Buffer Overrun
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0571 — The Truculent Integer Underflow
+*passes every unit test it has ever met; production has yet to forgive it.*
