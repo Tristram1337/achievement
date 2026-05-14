@@ -3066,3 +3066,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1021 — The Profligate Dangling Closure
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #1022 — The Mendacious Buffer Overrun
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
