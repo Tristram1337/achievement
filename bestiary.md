@@ -1308,3 +1308,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0435 — The Cantankerous Cache Miss
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0436 — The Profligate Type Confusion
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
