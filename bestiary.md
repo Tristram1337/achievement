@@ -2553,3 +2553,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0850 — The Nihilistic Buffer Overrun
 *haunts the codebase between midnight on Sundays, fed by skipped tests.*
+
+## #0851 — The Querulous Memory Leak
+*summoned by deploying on a Friday, banished only by deleting node_modules and starting over.*
