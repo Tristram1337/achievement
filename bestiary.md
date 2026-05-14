@@ -2550,3 +2550,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0849 — The Pernicious Lost Update
 *feeds on TODOs older than the company and exhales deprecation warnings.*
+
+## #0850 — The Nihilistic Buffer Overrun
+*haunts the codebase between midnight on Sundays, fed by skipped tests.*
