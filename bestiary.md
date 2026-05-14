@@ -3006,3 +3006,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1001 — The Capricious Memory Leak
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #1002 — The Vain Dangling Closure
+*thrives in untyped contexts and withers in the presence of a linter.*
