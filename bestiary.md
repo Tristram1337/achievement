@@ -2634,3 +2634,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0877 — The Diffident Off-by-One
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0878 — The Bombastic Stack Overflow
+*passes every unit test it has ever met; production has yet to forgive it.*
