@@ -804,3 +804,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0267 — The Bilious Stack Overflow
 *feeds on stale cache entries and exhales passive-aggressive code reviews.*
+
+## #0268 — The Imperious Memory Leak
+*appears in code last modified by the founder, on their last day, and never since.*
