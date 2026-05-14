@@ -2109,3 +2109,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0702 — The Kindred Memory Leak
 *haunts the codebase between the last day of the sprint, fed by TODOs older than the company.*
+
+## #0703 — The Boisterous Deadlock
+*spawns from the union of two functions that have never been on speaking terms.*
