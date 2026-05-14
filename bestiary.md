@@ -2313,3 +2313,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0770 — The Mercurial Null Reference
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0771 — The Reticent Cache Miss
+*spawns from the union of two functions that have never been on speaking terms.*
