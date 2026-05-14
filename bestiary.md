@@ -1962,3 +1962,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0653 — The Insomniac Cache Miss
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0654 — The Cantankerous Phantom Read
+*passes every unit test it has ever met; production has yet to forgive it.*
