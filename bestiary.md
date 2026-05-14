@@ -945,3 +945,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0314 — The Zealous Off-by-One
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0315 — The Fastidious Null Reference
+*haunts the codebase between 02:00 and 04:00 UTC, fed by skipped tests.*
