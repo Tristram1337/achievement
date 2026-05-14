@@ -1455,3 +1455,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0484 — The Quixotic Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0485 — The Quixotic Use-After-Free
+*looks exactly like a feature in dim light and on a Friday.*
