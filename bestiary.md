@@ -2148,3 +2148,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0715 — The Melancholic Lost Update
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0716 — The Vain Null Reference
+*haunts the codebase between Friday afternoons, fed by off-by-one errors.*
