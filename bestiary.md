@@ -849,3 +849,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0282 — The Vain Off-by-One
 *feeds on off-by-one errors and exhales passive-aggressive code reviews.*
+
+## #0283 — The Wistful Lost Update
+*appears in code last modified by the founder, on their last day, and never since.*
