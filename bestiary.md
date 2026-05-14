@@ -1806,3 +1806,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0601 — The Insolent Buffer Overrun
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0602 — The Garrulous Heap Corruption
+*spawns from the union of two functions that have never been on speaking terms.*
