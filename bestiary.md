@@ -1116,3 +1116,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0371 — The Obstinate Null Reference
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0372 — The Loquacious Lost Update
+*looks exactly like a feature in dim light and on a Friday.*
