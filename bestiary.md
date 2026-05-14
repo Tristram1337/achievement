@@ -1983,3 +1983,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0660 — The Gregarious Race Condition
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0661 — The Tenacious Buffer Overrun
+*haunts the codebase between release-freeze windows, fed by unhandled exceptions.*
