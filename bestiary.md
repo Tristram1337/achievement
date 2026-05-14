@@ -1956,3 +1956,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0651 — The Wistful Dangling Closure
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0652 — The Lugubrious Lost Update
+*haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
