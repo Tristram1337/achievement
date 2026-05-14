@@ -2856,3 +2856,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0951 — The Garrulous Cache Miss
 *summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
+
+## #0952 — The Querulous Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
