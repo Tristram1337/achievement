@@ -1611,3 +1611,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0536 — The Nihilistic Memory Leak
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0537 — The Fractious Dangling Closure
+*spawns from the union of two functions that have never been on speaking terms.*
