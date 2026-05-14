@@ -1002,3 +1002,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0333 — The Inscrutable Phantom Read
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0334 — The Bilious Deadlock
+*haunts the codebase between the last day of the sprint, fed by stale cache entries.*
