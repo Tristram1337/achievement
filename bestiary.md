@@ -2676,3 +2676,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0891 — The Lugubrious Null Reference
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0892 — The Kindred Cache Miss
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
