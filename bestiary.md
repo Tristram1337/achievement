@@ -1977,3 +1977,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0658 — The Drunken Buffer Overrun
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0659 — The Wistful Phantom Read
+*haunts the codebase between Friday afternoons, fed by off-by-one errors.*
