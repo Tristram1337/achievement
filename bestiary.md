@@ -2910,3 +2910,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0969 — The Hirsute Use-After-Free
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0970 — The Profligate Memory Leak
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
