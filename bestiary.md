@@ -1761,3 +1761,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0586 — The Earnest Heap Corruption
 *haunts the codebase between midnight on Sundays, fed by stale cache entries.*
+
+## #0587 — The Pedantic Phantom Read
+*summoned by running tests in the wrong directory, banished only by a polite email to the original author.*
