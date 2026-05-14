@@ -1371,3 +1371,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0456 — The Effervescent Off-by-One
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0457 — The Vacillating Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
