@@ -2460,3 +2460,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0819 — The Stoic Type Confusion
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0820 — The Drunken Null Reference
+*smells faintly of fresh coffee and old printer ink.*
