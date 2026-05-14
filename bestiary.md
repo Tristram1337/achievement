@@ -1887,3 +1887,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0628 — The Hapless Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0629 — The Unctuous Cache Miss
+*smells faintly of fresh coffee and old printer ink.*
