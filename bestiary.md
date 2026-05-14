@@ -1005,3 +1005,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0334 — The Bilious Deadlock
 *haunts the codebase between the last day of the sprint, fed by stale cache entries.*
+
+## #0335 — The Apathetic Integer Underflow
+*thrives in untyped contexts and withers in the presence of a linter.*
