@@ -1749,3 +1749,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0582 — The Sardonic Stack Overflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0583 — The Drunken Race Condition
+*summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
