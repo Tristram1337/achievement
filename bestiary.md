@@ -1494,3 +1494,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0497 — The Vain Race Condition
 *smells faintly of static electricity and old printer ink.*
+
+## #0498 — The Stochastic Cache Miss
+*summoned by renaming a variable without grep, banished only by deleting node_modules and starting over.*
