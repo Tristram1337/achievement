@@ -2259,3 +2259,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0752 — The Cantankerous Off-by-One
 *is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
+
+## #0753 — The Reticent Dangling Closure
+*feeds on tabs that should be spaces and exhales TODO comments.*
