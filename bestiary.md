@@ -2196,3 +2196,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0731 — The Querulous Buffer Overrun
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0732 — The Inscrutable Stack Overflow
+*spawns from the union of two functions that have never been on speaking terms.*
