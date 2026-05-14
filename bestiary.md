@@ -1428,3 +1428,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0475 — The Insolent Heap Corruption
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0476 — The Obsequious Lost Update
+*manifests only when two interns argue about indentation; vanishes the moment you open the file.*
