@@ -1881,3 +1881,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0626 — The Ineffable Lost Update
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0627 — The Effervescent Type Confusion
+*spawns from the union of two functions that have never been on speaking terms.*
