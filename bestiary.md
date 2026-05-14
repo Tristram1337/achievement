@@ -2871,3 +2871,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0956 — The Indolent Null Reference
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0957 — The Loquacious Dangling Closure
+*appears in code last modified by an intern who is now a CTO, and never since.*
