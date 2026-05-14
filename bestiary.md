@@ -1686,3 +1686,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0561 — The Effulgent Cache Miss
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0562 — The Recursive Dangling Closure
+*haunts the codebase between Friday afternoons, fed by skipped tests.*
