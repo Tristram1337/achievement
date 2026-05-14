@@ -948,3 +948,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0315 — The Fastidious Null Reference
 *haunts the codebase between 02:00 and 04:00 UTC, fed by skipped tests.*
+
+## #0316 — The Ineffable Race Condition
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
