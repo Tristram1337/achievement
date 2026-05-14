@@ -846,3 +846,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0281 — The Truculent Buffer Overrun
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0282 — The Vain Off-by-One
+*feeds on off-by-one errors and exhales passive-aggressive code reviews.*
