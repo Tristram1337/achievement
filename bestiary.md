@@ -1998,3 +1998,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0665 — The Stochastic Deadlock
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0666 — The Kindred Dangling Closure
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
