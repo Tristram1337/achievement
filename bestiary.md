@@ -1911,3 +1911,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0636 — The Querulous Dangling Closure
 *is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
+
+## #0637 — The Insomniac Integer Underflow
+*speaks only in stack traces, and only to those who already understand them.*
