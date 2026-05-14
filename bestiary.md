@@ -1851,3 +1851,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0616 — The Gregarious Heap Corruption
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0617 — The Lonely Stack Overflow
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
