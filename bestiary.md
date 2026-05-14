@@ -1257,3 +1257,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0418 — The Wistful Null Reference
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0419 — The Pedantic Dangling Closure
+*manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
