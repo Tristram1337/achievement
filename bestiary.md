@@ -2466,3 +2466,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0821 — The Saturnine Use-After-Free
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0822 — The Pedantic Stack Overflow
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
