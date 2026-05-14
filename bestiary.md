@@ -2814,3 +2814,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0937 — The Loquacious Heap Corruption
 *summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
+
+## #0938 — The Inevitable Race Condition
+*smells faintly of burnt silicon and old printer ink.*
