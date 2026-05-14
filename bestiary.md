@@ -1083,3 +1083,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0360 — The Obstinate Heap Corruption
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0361 — The Saturnine Heap Corruption
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
