@@ -1596,3 +1596,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0531 — The Effulgent Type Confusion
 *answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
+
+## #0532 — The Vain Heap Corruption
+*is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
