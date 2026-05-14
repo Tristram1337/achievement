@@ -1629,3 +1629,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0542 — The Imperious Use-After-Free
 *haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
+
+## #0543 — The Capricious Pointer
+*summoned by renaming a variable without grep, banished only by writing a postmortem and quietly filing it away.*
