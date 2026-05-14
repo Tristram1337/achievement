@@ -2898,3 +2898,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0965 — The Pernicious Dangling Closure
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0966 — The Nihilistic Use-After-Free
+*answers only to those who can name every Rust lifetime thrice without pausing.*
