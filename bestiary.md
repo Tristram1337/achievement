@@ -1425,3 +1425,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0474 — The Effulgent Phantom Read
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0475 — The Insolent Heap Corruption
+*passes every unit test it has ever met; production has yet to forgive it.*
