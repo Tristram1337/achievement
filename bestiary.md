@@ -1050,3 +1050,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0349 — The Jocose Heap Corruption
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0350 — The Tenacious Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
