@@ -1581,3 +1581,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0526 — The Maudlin Deadlock
 *manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
+
+## #0527 — The Stochastic Use-After-Free
+*smells faintly of fresh coffee and old printer ink.*
