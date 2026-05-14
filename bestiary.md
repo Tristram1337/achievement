@@ -2163,3 +2163,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0720 — The Lugubrious Integer Underflow
 *is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
+
+## #0721 — The Fractious Deadlock
+*feeds on unhandled exceptions and exhales stack traces in three encodings at once.*
