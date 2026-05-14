@@ -1254,3 +1254,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0417 — The Reticent Stack Overflow
 *haunts the codebase between midnight on Sundays, fed by TODOs older than the company.*
+
+## #0418 — The Wistful Null Reference
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
