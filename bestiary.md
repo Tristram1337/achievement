@@ -1590,3 +1590,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0529 — The Vacillating Stack Overflow
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0530 — The Saturnine Stack Overflow
+*thrives in untyped contexts and withers in the presence of a linter.*
