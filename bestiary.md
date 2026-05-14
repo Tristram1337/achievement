@@ -927,3 +927,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0308 — The Cantankerous Heap Corruption
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0309 — The Cantankerous Pointer
+*answers only to those who can name every Rust lifetime thrice without pausing.*
