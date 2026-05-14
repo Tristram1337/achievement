@@ -2436,3 +2436,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0811 — The Jocose Dangling Closure
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0812 — The Inevitable Lost Update
+*is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
