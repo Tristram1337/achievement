@@ -1059,3 +1059,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0352 — The Diffident Type Confusion
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0353 — The Petulant Race Condition
+*passes every unit test it has ever met; production has yet to forgive it.*
