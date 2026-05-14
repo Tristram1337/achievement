@@ -2322,3 +2322,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0773 — The Diffident Heap Corruption
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0774 — The Pedantic Type Confusion
+*feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
