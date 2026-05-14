@@ -1782,3 +1782,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0593 — The Nihilistic Integer Underflow
 *feeds on off-by-one errors and exhales panic logs.*
+
+## #0594 — The Insomniac Stack Overflow
+*looks exactly like a feature in dim light and on a Friday.*
