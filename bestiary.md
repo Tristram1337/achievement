@@ -1986,3 +1986,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0661 — The Tenacious Buffer Overrun
 *haunts the codebase between release-freeze windows, fed by unhandled exceptions.*
+
+## #0662 — The Bilious Null Reference
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
