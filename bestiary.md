@@ -2685,3 +2685,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0894 — The Maudlin Stack Overflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0895 — The Vacillating Integer Underflow
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
