@@ -1443,3 +1443,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0480 — The Vexatious Type Confusion
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0481 — The Inscrutable Buffer Overrun
+*exists in superposition of fixed and broken until observed by the CI runner.*
