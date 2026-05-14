@@ -1368,3 +1368,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0455 — The Truculent Cache Miss
 *is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
+
+## #0456 — The Effervescent Off-by-One
+*appears in code last modified by an intern who is now a CTO, and never since.*
