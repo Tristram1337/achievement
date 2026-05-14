@@ -2916,3 +2916,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0971 — The Tenacious Memory Leak
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0972 — The Sanguine Buffer Overrun
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
