@@ -2811,3 +2811,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0936 — The Lugubrious Phantom Read
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0937 — The Loquacious Heap Corruption
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
