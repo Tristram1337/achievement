@@ -2511,3 +2511,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0836 — The Unctuous Null Reference
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0837 — The Inscrutable Off-by-One
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
