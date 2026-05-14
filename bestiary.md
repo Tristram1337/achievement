@@ -2037,3 +2037,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0678 — The Yearning Buffer Overrun
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0679 — The Ineffable Off-by-One
+*thrives in untyped contexts and withers in the presence of a linter.*
