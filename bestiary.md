@@ -1026,3 +1026,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0341 — The Hapless Type Confusion
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0342 — The Obstinate Buffer Overrun
+*smells faintly of warm laminate and old printer ink.*
