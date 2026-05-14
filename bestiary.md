@@ -1401,3 +1401,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0466 — The Hapless Pointer
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0467 — The Gregarious Dangling Closure
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
