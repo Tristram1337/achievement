@@ -786,3 +786,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0261 — The Earnest Pointer
 *feeds on skipped tests and exhales passive-aggressive code reviews.*
+
+## #0262 — The Loquacious Phantom Read
+*spawns from the union of two functions that have never been on speaking terms.*
