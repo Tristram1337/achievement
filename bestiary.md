@@ -2118,3 +2118,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0705 — The Vain Lost Update
 *haunts the codebase between the last day of the sprint, fed by off-by-one errors.*
+
+## #0706 — The Hirsute Phantom Read
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
