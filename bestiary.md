@@ -1320,3 +1320,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0439 — The Obsequious Cache Miss
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0440 — The Zealous Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
