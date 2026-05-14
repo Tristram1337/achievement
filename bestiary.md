@@ -1470,3 +1470,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0489 — The Gregarious Lost Update
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0490 — The Lugubrious Buffer Overrun
+*feeds on off-by-one errors and exhales deprecation warnings.*
