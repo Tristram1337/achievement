@@ -1665,3 +1665,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0554 — The Sardonic Cache Miss
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0555 — The Dolorous Dangling Closure
+*summoned by merging without reading the diff, banished only by a polite email to the original author.*
