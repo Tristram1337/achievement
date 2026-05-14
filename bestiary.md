@@ -2604,3 +2604,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0867 — The Unctuous Type Confusion
 *summoned by renaming a variable without grep, banished only by deleting node_modules and starting over.*
+
+## #0868 — The Nihilistic Phantom Read
+*looks exactly like a feature in dim light and on a Friday.*
