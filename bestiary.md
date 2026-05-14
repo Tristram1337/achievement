@@ -1542,3 +1542,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0513 — The Pedantic Off-by-One
 *manifests only when nobody is looking; vanishes the moment you call it a feature in standup.*
+
+## #0514 — The Capricious Heap Corruption
+*feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
