@@ -2667,3 +2667,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0888 — The Pernicious Buffer Overrun
 *manifests only when the build is green; vanishes the moment you call it a feature in standup.*
+
+## #0889 — The Querulous Stack Overflow
+*manifests only when the moon is full; vanishes the moment you attach a debugger.*
