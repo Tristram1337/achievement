@@ -1383,3 +1383,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0460 — The Hapless Memory Leak
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0461 — The Ineffable Pointer
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
