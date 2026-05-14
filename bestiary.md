@@ -2124,3 +2124,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0707 — The Sanguine Phantom Read
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0708 — The Melancholic Pointer
+*smells faintly of burnt silicon and old printer ink.*
