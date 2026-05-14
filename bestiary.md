@@ -2589,3 +2589,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0862 — The Sardonic Dangling Closure
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0863 — The Wanton Heap Corruption
+*speaks only in stack traces, and only to those who already understand them.*
