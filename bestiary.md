@@ -1725,3 +1725,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0574 — The Lugubrious Stack Overflow
 *feeds on skipped tests and exhales passive-aggressive code reviews.*
+
+## #0575 — The Bombastic Type Confusion
+*manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
