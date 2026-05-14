@@ -2265,3 +2265,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0754 — The Mendacious Lost Update
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0755 — The Obdurate Off-by-One
+*looks exactly like a feature in dim light and on a Friday.*
