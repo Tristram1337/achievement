@@ -1356,3 +1356,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0451 — The Lonely Type Confusion
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0452 — The Pernicious Deadlock
+*thrives in untyped contexts and withers in the presence of a linter.*
