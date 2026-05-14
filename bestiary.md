@@ -2076,3 +2076,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0691 — The Kindred Stack Overflow
 *summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
+
+## #0692 — The Wanton Use-After-Free
+*feeds on unhandled exceptions and exhales passive-aggressive code reviews.*
