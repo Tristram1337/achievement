@@ -2214,3 +2214,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0737 — The Stoic Deadlock
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0738 — The Lugubrious Heap Corruption
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
