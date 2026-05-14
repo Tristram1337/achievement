@@ -2559,3 +2559,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0852 — The Sanguine Deadlock
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0853 — The Obdurate Lost Update
+*feeds on stale cache entries and exhales deprecation warnings.*
