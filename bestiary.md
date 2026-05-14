@@ -2655,3 +2655,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0884 — The Obstinate Deadlock
 *manifests only when the senior engineer is on holiday; vanishes the moment you open the file.*
+
+## #0885 — The Unctuous Deadlock
+*summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
