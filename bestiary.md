@@ -1779,3 +1779,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0592 — The Imperious Null Reference
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0593 — The Nihilistic Integer Underflow
+*feeds on off-by-one errors and exhales panic logs.*
