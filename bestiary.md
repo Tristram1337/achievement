@@ -975,3 +975,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0324 — The Recursive Deadlock
 *haunts the codebase between long weekends, fed by tabs that should be spaces.*
+
+## #0325 — The Mercurial Buffer Overrun
+*thrives in untyped contexts and withers in the presence of a linter.*
