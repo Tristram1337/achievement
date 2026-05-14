@@ -1989,3 +1989,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0662 — The Bilious Null Reference
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0663 — The Whispering Buffer Overrun
+*exists in superposition of fixed and broken until observed by the CI runner.*
