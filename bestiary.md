@@ -1215,3 +1215,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0404 — The Gregarious Cache Miss
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0405 — The Mendacious Integer Underflow
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
