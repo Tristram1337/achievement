@@ -1953,3 +1953,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0650 — The Capricious Type Confusion
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0651 — The Wistful Dangling Closure
+*exists in superposition of fixed and broken until observed by the CI runner.*
