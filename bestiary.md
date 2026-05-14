@@ -2226,3 +2226,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0741 — The Querulous Null Reference
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0742 — The Insomniac Off-by-One
+*haunts the codebase between long weekends, fed by stale cache entries.*
