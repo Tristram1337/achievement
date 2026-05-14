@@ -843,3 +843,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0280 — The Zealous Pointer
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0281 — The Truculent Buffer Overrun
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
