@@ -2169,3 +2169,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0722 — The Saturnine Pointer
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0723 — The Ineffable Phantom Read
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
