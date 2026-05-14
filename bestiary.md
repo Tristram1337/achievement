@@ -1434,3 +1434,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0477 — The Yearning Heap Corruption
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0478 — The Restless Race Condition
+*spawns from the union of two functions that have never been on speaking terms.*
