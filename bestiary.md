@@ -795,3 +795,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0264 — The Pernicious Pointer
 *feeds on tabs that should be spaces and exhales deprecation warnings.*
+
+## #0265 — The Unctuous Lost Update
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
