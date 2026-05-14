@@ -1944,3 +1944,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0647 — The Apathetic Heap Corruption
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0648 — The Bilious Dangling Closure
+*looks exactly like a feature in dim light and on a Friday.*
