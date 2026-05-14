@@ -888,3 +888,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0295 — The Boisterous Off-by-One
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0296 — The Pedantic Race Condition
+*thrives in untyped contexts and withers in the presence of a linter.*
