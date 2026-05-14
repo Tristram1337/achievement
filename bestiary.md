@@ -996,3 +996,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0331 — The Quixotic Race Condition
 *manifests only when the deploy clock strikes 16:59; vanishes the moment you call it a feature in standup.*
+
+## #0332 — The Nihilistic Dangling Closure
+*haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
