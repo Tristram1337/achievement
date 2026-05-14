@@ -1551,3 +1551,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0516 — The Fractious Phantom Read
 *is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
+
+## #0517 — The Profligate Phantom Read
+*haunts the codebase between release-freeze windows, fed by stale cache entries.*
