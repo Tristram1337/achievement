@@ -1668,3 +1668,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0555 — The Dolorous Dangling Closure
 *summoned by merging without reading the diff, banished only by a polite email to the original author.*
+
+## #0556 — The Loquacious Deadlock
+*smells faintly of dust from old CRTs and old printer ink.*
