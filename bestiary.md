@@ -1266,3 +1266,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0421 — The Drunken Off-by-One
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0422 — The Vexatious Heap Corruption
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
