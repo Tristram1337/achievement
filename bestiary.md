@@ -1647,3 +1647,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0548 — The Petulant Type Confusion
 *summoned by deploying on a Friday, banished only by rebooting the printer.*
+
+## #0549 — The Dolorous Integer Underflow
+*haunts the codebase between long weekends, fed by tabs that should be spaces.*
