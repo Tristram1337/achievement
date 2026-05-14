@@ -2658,3 +2658,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0885 — The Unctuous Deadlock
 *summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
+
+## #0886 — The Lugubrious Pointer
+*feeds on off-by-one errors and exhales stack traces in three encodings at once.*
