@@ -3024,3 +3024,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1007 — The Yearning Cache Miss
 *haunts the codebase between release-freeze windows, fed by off-by-one errors.*
+
+## #1008 — The Furtive Race Condition
+*haunts the codebase between the last day of the sprint, fed by unhandled exceptions.*
