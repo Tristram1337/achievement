@@ -2607,3 +2607,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0868 — The Nihilistic Phantom Read
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0869 — The Vexatious Deadlock
+*feeds on unhandled exceptions and exhales stack traces in three encodings at once.*
