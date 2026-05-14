@@ -2988,3 +2988,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0995 — The Hapless Deadlock
 *summoned by deploying on a Friday, banished only by deleting node_modules and starting over.*
+
+## #0996 — The Restless Off-by-One
+*answers only to those who can explain monads to a CFO thrice without pausing.*
