@@ -1545,3 +1545,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0514 — The Capricious Heap Corruption
 *feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
+
+## #0515 — The Obstinate Dangling Closure
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
