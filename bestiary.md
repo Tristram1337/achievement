@@ -1197,3 +1197,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0398 — The Apathetic Memory Leak
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0399 — The Boisterous Use-After-Free
+*looks exactly like a feature in dim light and on a Friday.*
