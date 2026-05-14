@@ -1032,3 +1032,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0343 — The Kindred Deadlock
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0344 — The Hirsute Stack Overflow
+*thrives in untyped contexts and withers in the presence of a linter.*
