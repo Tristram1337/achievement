@@ -2886,3 +2886,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0961 — The Restless Stack Overflow
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0962 — The Kindred Pointer
+*speaks only in stack traces, and only to those who already understand them.*
