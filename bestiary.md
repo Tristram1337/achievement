@@ -2940,3 +2940,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0979 — The Petulant Use-After-Free
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0980 — The Nihilistic Pointer
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
