@@ -2937,3 +2937,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0978 — The Earnest Buffer Overrun
 *haunts the codebase between Friday afternoons, fed by off-by-one errors.*
+
+## #0979 — The Petulant Use-After-Free
+*smells faintly of burnt silicon and old printer ink.*
