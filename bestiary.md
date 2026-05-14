@@ -2763,3 +2763,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0920 — The Dolorous Stack Overflow
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0921 — The Quixotic Integer Underflow
+*summoned by merging without reading the diff, banished only by rebooting the printer.*
