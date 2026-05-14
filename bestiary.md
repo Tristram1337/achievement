@@ -1122,3 +1122,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0373 — The Insomniac Lost Update
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0374 — The Pernicious Use-After-Free
+*smells faintly of wet cardboard and old printer ink.*
