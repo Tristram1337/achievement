@@ -1134,3 +1134,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0377 — The Wanton Deadlock
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0378 — The Petulant Buffer Overrun
+*smells faintly of fresh coffee and old printer ink.*
