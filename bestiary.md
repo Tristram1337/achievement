@@ -2085,3 +2085,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0694 — The Inscrutable Null Reference
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0695 — The Dolorous Pointer
+*spawns from the union of two functions that have never been on speaking terms.*
