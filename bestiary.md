@@ -963,3 +963,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0320 — The Boisterous Integer Underflow
 *feeds on deprecated TLS warnings and exhales deprecation warnings.*
+
+## #0321 — The Obstinate Lost Update
+*feeds on deprecated TLS warnings and exhales deprecation warnings.*
