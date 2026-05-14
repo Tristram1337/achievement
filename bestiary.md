@@ -969,3 +969,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0322 — The Mercurial Deadlock
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0323 — The Diffident Use-After-Free
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
