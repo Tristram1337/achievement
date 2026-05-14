@@ -2850,3 +2850,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0949 — The Lonely Buffer Overrun
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0950 — The Obsequious Integer Underflow
+*looks exactly like a feature in dim light and on a Friday.*
