@@ -2073,3 +2073,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0690 — The Indolent Buffer Overrun
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0691 — The Kindred Stack Overflow
+*summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
