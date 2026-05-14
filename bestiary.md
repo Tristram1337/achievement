@@ -1173,3 +1173,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0390 — The Vacillating Use-After-Free
 *summoned by running tests in the wrong directory, banished only by writing a postmortem and quietly filing it away.*
+
+## #0391 — The Unctuous Memory Leak
+*manifests only when the moon is full; vanishes the moment you call it a feature in standup.*
