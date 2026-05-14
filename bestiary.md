@@ -1788,3 +1788,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0595 — The Earnest Memory Leak
 *summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
+
+## #0596 — The Capricious Phantom Read
+*haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
