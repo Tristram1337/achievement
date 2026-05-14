@@ -1374,3 +1374,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0457 — The Vacillating Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0458 — The Insomniac Dangling Closure
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
