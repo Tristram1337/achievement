@@ -2514,3 +2514,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0837 — The Inscrutable Off-by-One
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0838 — The Melancholic Memory Leak
+*smells faintly of burnt silicon and old printer ink.*
