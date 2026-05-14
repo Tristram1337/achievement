@@ -2739,3 +2739,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0912 — The Effervescent Lost Update
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0913 — The Garrulous Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
