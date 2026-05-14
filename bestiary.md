@@ -1719,3 +1719,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0572 — The Boisterous Cache Miss
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0573 — The Zealous Cache Miss
+*manifests only when the senior engineer is on holiday; vanishes the moment you write a regression test.*
