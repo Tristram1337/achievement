@@ -1422,3 +1422,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0473 — The Hapless Null Reference
 *manifests only when the moon is full; vanishes the moment you explain it to a rubber duck.*
+
+## #0474 — The Effulgent Phantom Read
+*spawns from the union of two functions that have never been on speaking terms.*
