@@ -1932,3 +1932,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0643 — The Vacillating Cache Miss
 *is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
+
+## #0644 — The Obdurate Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
