@@ -1746,3 +1746,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0581 — The Sardonic Deadlock
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0582 — The Sardonic Stack Overflow
+*passes every unit test it has ever met; production has yet to forgive it.*
