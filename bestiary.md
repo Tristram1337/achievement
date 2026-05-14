@@ -3060,3 +3060,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1019 — The Indolent Use-After-Free
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #1020 — The Melancholic Use-After-Free
+*exists in superposition of fixed and broken until observed by the CI runner.*
