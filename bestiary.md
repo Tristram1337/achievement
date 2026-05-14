@@ -1413,3 +1413,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0470 — The Profligate Cache Miss
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0471 — The Effulgent Memory Leak
+*appears in code last modified by the founder, on their last day, and never since.*
