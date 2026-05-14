@@ -2160,3 +2160,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0719 — The Capricious Stack Overflow
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0720 — The Lugubrious Integer Underflow
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
