@@ -1800,3 +1800,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0599 — The Obdurate Deadlock
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0600 — The Tenacious Off-by-One
+*appears in code last modified by someone who left in 2014, and never since.*
