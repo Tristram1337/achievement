@@ -3015,3 +3015,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1004 — The Hirsute Heap Corruption
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #1005 — The Effulgent Stack Overflow
+*looks exactly like a feature in dim light and on a Friday.*
