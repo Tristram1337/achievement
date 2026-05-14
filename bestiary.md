@@ -2115,3 +2115,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0704 — The Dolorous Type Confusion
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0705 — The Vain Lost Update
+*haunts the codebase between the last day of the sprint, fed by off-by-one errors.*
