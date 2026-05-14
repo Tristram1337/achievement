@@ -1896,3 +1896,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0631 — The Yearning Deadlock
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0632 — The Inscrutable Memory Leak
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
