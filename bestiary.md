@@ -954,3 +954,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0317 — The Mercurial Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0318 — The Profligate Pointer
+*spawns from the union of two functions that have never been on speaking terms.*
