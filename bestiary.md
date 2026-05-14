@@ -1614,3 +1614,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0537 — The Fractious Dangling Closure
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0538 — The Jocose Race Condition
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
