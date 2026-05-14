@@ -1278,3 +1278,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0425 — The Zealous Phantom Read
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0426 — The Petulant Null Reference
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
