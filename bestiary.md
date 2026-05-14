@@ -3042,3 +3042,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1013 — The Wistful Pointer
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #1014 — The Ineffable Null Reference
+*spawns from the union of two functions that have never been on speaking terms.*
