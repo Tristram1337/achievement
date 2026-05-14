@@ -834,3 +834,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0277 — The Effulgent Dangling Closure
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0278 — The Lonely Pointer
+*thrives in untyped contexts and withers in the presence of a linter.*
