@@ -2319,3 +2319,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0772 — The Petulant Stack Overflow
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0773 — The Diffident Heap Corruption
+*is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
