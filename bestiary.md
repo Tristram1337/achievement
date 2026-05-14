@@ -822,3 +822,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0273 — The Whispering Deadlock
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0274 — The Hapless Integer Underflow
+*thrives in untyped contexts and withers in the presence of a linter.*
