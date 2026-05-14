@@ -2373,3 +2373,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0790 — The Maudlin Race Condition
 *feeds on stale cache entries and exhales TODO comments.*
+
+## #0791 — The Insomniac Buffer Overrun
+*smells faintly of burnt silicon and old printer ink.*
