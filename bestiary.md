@@ -1503,3 +1503,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0500 — The Inscrutable Race Condition
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0501 — The Whispering Integer Underflow
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
