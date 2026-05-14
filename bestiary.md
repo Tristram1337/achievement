@@ -2307,3 +2307,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0768 — The Lonely Deadlock
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0769 — The Quixotic Stack Overflow
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
