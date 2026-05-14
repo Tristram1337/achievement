@@ -2781,3 +2781,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0926 — The Drunken Type Confusion
 *haunts the codebase between release-freeze windows, fed by stale cache entries.*
+
+## #0927 — The Kindred Off-by-One
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
