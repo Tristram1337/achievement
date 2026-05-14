@@ -2223,3 +2223,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0740 — The Obsequious Heap Corruption
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0741 — The Querulous Null Reference
+*smells faintly of burnt silicon and old printer ink.*
