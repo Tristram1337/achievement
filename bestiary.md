@@ -2103,3 +2103,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0700 — The Apathetic Type Confusion
 *smells faintly of warm laminate and old printer ink.*
+
+## #0701 — The Querulous Race Condition
+*exists in superposition of fixed and broken until observed by the CI runner.*
