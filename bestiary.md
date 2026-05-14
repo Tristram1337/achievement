@@ -1359,3 +1359,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0452 — The Pernicious Deadlock
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0453 — The Diffident Null Reference
+*haunts the codebase between release-freeze windows, fed by off-by-one errors.*
