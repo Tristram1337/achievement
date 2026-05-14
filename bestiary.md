@@ -1965,3 +1965,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0654 — The Cantankerous Phantom Read
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0655 — The Lugubrious Deadlock
+*looks exactly like a feature in dim light and on a Friday.*
