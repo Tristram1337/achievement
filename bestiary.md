@@ -828,3 +828,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0275 — The Kindred Use-After-Free
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0276 — The Sanguine Heap Corruption
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
