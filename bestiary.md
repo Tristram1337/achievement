@@ -2976,3 +2976,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0991 — The Fractious Lost Update
 *manifests only when nobody is looking; vanishes the moment you type `git blame`.*
+
+## #0992 — The Vexatious Stack Overflow
+*answers only to those who can explain monads to a CFO thrice without pausing.*
