@@ -2628,3 +2628,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0875 — The Cantankerous Deadlock
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0876 — The Jocose Use-After-Free
+*exists in superposition of fixed and broken until observed by the CI runner.*
