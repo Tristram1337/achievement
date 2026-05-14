@@ -2706,3 +2706,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0901 — The Inevitable Null Reference
 *summoned by renaming a variable without grep, banished only by deleting node_modules and starting over.*
+
+## #0902 — The Stoic Use-After-Free
+*passes every unit test it has ever met; production has yet to forgive it.*
