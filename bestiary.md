@@ -2967,3 +2967,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0988 — The Inevitable Stack Overflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0989 — The Maudlin Lost Update
+*spawns from the union of two functions that have never been on speaking terms.*
