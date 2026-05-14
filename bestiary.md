@@ -2934,3 +2934,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0977 — The Mercurial Phantom Read
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0978 — The Earnest Buffer Overrun
+*haunts the codebase between Friday afternoons, fed by off-by-one errors.*
