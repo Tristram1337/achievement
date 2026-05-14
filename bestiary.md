@@ -1041,3 +1041,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0346 — The Whispering Heap Corruption
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0347 — The Nihilistic Stack Overflow
+*looks exactly like a feature in dim light and on a Friday.*
