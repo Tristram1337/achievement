@@ -1875,3 +1875,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0624 — The Pedantic Null Reference
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0625 — The Stoic Stack Overflow
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
