@@ -2880,3 +2880,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0959 — The Imperious Integer Underflow
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0960 — The Pedantic Lost Update
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
