@@ -1938,3 +1938,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0645 — The Effervescent Race Condition
 *feeds on tabs that should be spaces and exhales stack traces in three encodings at once.*
+
+## #0646 — The Sanguine Pointer
+*passes every unit test it has ever met; production has yet to forgive it.*
