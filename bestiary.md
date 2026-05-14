@@ -2907,3 +2907,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0968 — The Nihilistic Cache Miss
 *is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
+
+## #0969 — The Hirsute Use-After-Free
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
