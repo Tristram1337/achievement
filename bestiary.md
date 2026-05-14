@@ -2616,3 +2616,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0871 — The Sardonic Use-After-Free
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0872 — The Kindred Buffer Overrun
+*smells faintly of static electricity and old printer ink.*
