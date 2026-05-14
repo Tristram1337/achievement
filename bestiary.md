@@ -1500,3 +1500,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0499 — The Drunken Deadlock
 *feeds on deprecated TLS warnings and exhales stack traces in three encodings at once.*
+
+## #0500 — The Inscrutable Race Condition
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
