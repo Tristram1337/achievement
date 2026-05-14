@@ -2442,3 +2442,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0813 — The Garrulous Null Reference
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0814 — The Capricious Dangling Closure
+*speaks only in stack traces, and only to those who already understand them.*
