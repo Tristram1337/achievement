@@ -1392,3 +1392,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0463 — The Fastidious Buffer Overrun
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0464 — The Wanton Cache Miss
+*thrives in untyped contexts and withers in the presence of a linter.*
