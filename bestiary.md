@@ -2127,3 +2127,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0708 — The Melancholic Pointer
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0709 — The Bombastic Heap Corruption
+*summoned by deploying on a Friday, banished only by a polite email to the original author.*
