@@ -1677,3 +1677,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0558 — The Obdurate Use-After-Free
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0559 — The Sardonic Integer Underflow
+*manifests only when nobody is looking; vanishes the moment you type `git blame`.*
