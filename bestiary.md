@@ -984,3 +984,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0327 — The Sanguine Stack Overflow
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0328 — The Maudlin Heap Corruption
+*feeds on deprecated TLS warnings and exhales panic logs.*
