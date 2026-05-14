@@ -864,3 +864,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0287 — The Zealous Dangling Closure
 *haunts the codebase between release-freeze windows, fed by deprecated TLS warnings.*
+
+## #0288 — The Unctuous Integer Underflow
+*thrives in untyped contexts and withers in the presence of a linter.*
