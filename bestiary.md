@@ -978,3 +978,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0325 — The Mercurial Buffer Overrun
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0326 — The Unctuous Race Condition
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
