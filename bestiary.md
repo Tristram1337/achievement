@@ -1131,3 +1131,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0376 — The Tenacious Lost Update
 *manifests only when nobody is looking; vanishes the moment you write a regression test.*
+
+## #0377 — The Wanton Deadlock
+*exists in superposition of fixed and broken until observed by the CI runner.*
