@@ -2097,3 +2097,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0698 — The Nihilistic Race Condition
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0699 — The Insolent Phantom Read
+*speaks only in stack traces, and only to those who already understand them.*
