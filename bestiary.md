@@ -2652,3 +2652,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0883 — The Lonely Phantom Read
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0884 — The Obstinate Deadlock
+*manifests only when the senior engineer is on holiday; vanishes the moment you open the file.*
