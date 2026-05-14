@@ -1407,3 +1407,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0468 — The Obstinate Pointer
 *manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
+
+## #0469 — The Obdurate Memory Leak
+*smells faintly of wet cardboard and old printer ink.*
