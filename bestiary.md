@@ -1587,3 +1587,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0528 — The Saturnine Cache Miss
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0529 — The Vacillating Stack Overflow
+*speaks only in stack traces, and only to those who already understand them.*
