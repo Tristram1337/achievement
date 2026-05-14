@@ -1167,3 +1167,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0388 — The Unctuous Off-by-One
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0389 — The Recursive Pointer
+*answers only to those who can name every Rust lifetime thrice without pausing.*
