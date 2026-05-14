@@ -2376,3 +2376,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0791 — The Insomniac Buffer Overrun
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0792 — The Obdurate Phantom Read
+*spawns from the union of two functions that have never been on speaking terms.*
