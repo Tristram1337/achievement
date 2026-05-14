@@ -1569,3 +1569,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0522 — The Truculent Phantom Read
 *summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
+
+## #0523 — The Saturnine Null Reference
+*is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
