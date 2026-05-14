@@ -2007,3 +2007,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0668 — The Recursive Lost Update
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0669 — The Apathetic Buffer Overrun
+*speaks only in stack traces, and only to those who already understand them.*
