@@ -807,3 +807,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0268 — The Imperious Memory Leak
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0269 — The Fastidious Deadlock
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
