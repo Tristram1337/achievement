@@ -2928,3 +2928,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0975 — The Ineffable Type Confusion
 *manifests only when the build is green; vanishes the moment you attach a debugger.*
+
+## #0976 — The Melancholic Dangling Closure
+*smells faintly of warm laminate and old printer ink.*
