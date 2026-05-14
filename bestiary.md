@@ -3003,3 +3003,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1000 — The Boisterous Null Reference
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #1001 — The Capricious Memory Leak
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
