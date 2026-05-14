@@ -1929,3 +1929,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0642 — The Effervescent Phantom Read
 *manifests only when the senior engineer is on holiday; vanishes the moment you attach a debugger.*
+
+## #0643 — The Vacillating Cache Miss
+*is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
