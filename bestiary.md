@@ -2661,3 +2661,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0886 — The Lugubrious Pointer
 *feeds on off-by-one errors and exhales stack traces in three encodings at once.*
+
+## #0887 — The Pernicious Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
