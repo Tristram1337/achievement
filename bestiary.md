@@ -1071,3 +1071,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0356 — The Saturnine Buffer Overrun
 *smells faintly of warm laminate and old printer ink.*
+
+## #0357 — The Whispering Type Confusion
+*haunts the codebase between long weekends, fed by tabs that should be spaces.*
