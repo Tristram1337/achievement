@@ -2490,3 +2490,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0829 — The Boisterous Pointer
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0830 — The Yearning Lost Update
+*haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
