@@ -873,3 +873,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0290 — The Quixotic Heap Corruption
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0291 — The Earnest Deadlock
+*smells faintly of burnt silicon and old printer ink.*
