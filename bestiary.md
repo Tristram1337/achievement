@@ -2241,3 +2241,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0746 — The Stoic Pointer
 *smells faintly of static electricity and old printer ink.*
+
+## #0747 — The Stochastic Dangling Closure
+*manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
