@@ -2445,3 +2445,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0814 — The Capricious Dangling Closure
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0815 — The Querulous Pointer
+*exists in superposition of fixed and broken until observed by the CI runner.*
