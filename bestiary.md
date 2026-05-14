@@ -1740,3 +1740,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0579 — The Inscrutable Use-After-Free
 *is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
+
+## #0580 — The Vain Type Confusion
+*exists in superposition of fixed and broken until observed by the CI runner.*
