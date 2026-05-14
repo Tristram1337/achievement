@@ -1029,3 +1029,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0342 — The Obstinate Buffer Overrun
 *smells faintly of warm laminate and old printer ink.*
+
+## #0343 — The Kindred Deadlock
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
