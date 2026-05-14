@@ -2994,3 +2994,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0997 — The Garrulous Use-After-Free
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0998 — The Apathetic Null Reference
+*thrives in untyped contexts and withers in the presence of a linter.*
