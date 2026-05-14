@@ -3057,3 +3057,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1018 — The Boisterous Phantom Read
 *haunts the codebase between long weekends, fed by off-by-one errors.*
+
+## #1019 — The Indolent Use-After-Free
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
