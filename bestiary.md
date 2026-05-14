@@ -2895,3 +2895,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0964 — The Inevitable Buffer Overrun
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0965 — The Pernicious Dangling Closure
+*thrives in untyped contexts and withers in the presence of a linter.*
