@@ -2235,3 +2235,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0744 — The Sardonic Buffer Overrun
 *haunts the codebase between Friday afternoons, fed by skipped tests.*
+
+## #0745 — The Sardonic Null Reference
+*spawns from the union of two functions that have never been on speaking terms.*
