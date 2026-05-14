@@ -2433,3 +2433,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0810 — The Saturnine Off-by-One
 *summoned by merging without reading the diff, banished only by a complete rewrite in Rust.*
+
+## #0811 — The Jocose Dangling Closure
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
