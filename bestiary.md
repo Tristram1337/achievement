@@ -2262,3 +2262,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0753 — The Reticent Dangling Closure
 *feeds on tabs that should be spaces and exhales TODO comments.*
+
+## #0754 — The Mendacious Lost Update
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
