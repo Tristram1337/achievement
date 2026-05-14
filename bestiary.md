@@ -2031,3 +2031,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0676 — The Whispering Pointer
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0677 — The Stoic Phantom Read
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
