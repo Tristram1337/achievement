@@ -1848,3 +1848,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0615 — The Wistful Buffer Overrun
 *summoned by deploying on a Friday, banished only by a polite email to the original author.*
+
+## #0616 — The Gregarious Heap Corruption
+*looks exactly like a feature in dim light and on a Friday.*
