@@ -2502,3 +2502,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0833 — The Obsequious Dangling Closure
 *feeds on off-by-one errors and exhales panic logs.*
+
+## #0834 — The Apathetic Off-by-One
+*answers only to those who can name every Rust lifetime thrice without pausing.*
