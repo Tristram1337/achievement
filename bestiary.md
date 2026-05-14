@@ -1245,3 +1245,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0414 — The Vacillating Dangling Closure
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0415 — The Stoic Buffer Overrun
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
