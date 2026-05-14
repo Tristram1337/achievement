@@ -2280,3 +2280,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0759 — The Vain Use-After-Free
 *haunts the codebase between long weekends, fed by unhandled exceptions.*
+
+## #0760 — The Mendacious Race Condition
+*manifests only when the on-call phone is muted; vanishes the moment you open the file.*
