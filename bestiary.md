@@ -2181,3 +2181,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0726 — The Cantankerous Integer Underflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0727 — The Diffident Memory Leak
+*smells faintly of burnt silicon and old printer ink.*
