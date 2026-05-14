@@ -1440,3 +1440,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0479 — The Imperious Off-by-One
 *manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
+
+## #0480 — The Vexatious Type Confusion
+*spawns from the union of two functions that have never been on speaking terms.*
