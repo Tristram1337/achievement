@@ -1353,3 +1353,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0450 — The Saturnine Dangling Closure
 *haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
+
+## #0451 — The Lonely Type Confusion
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
