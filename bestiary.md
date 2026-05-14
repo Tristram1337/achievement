@@ -2100,3 +2100,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0699 — The Insolent Phantom Read
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0700 — The Apathetic Type Confusion
+*smells faintly of warm laminate and old printer ink.*
