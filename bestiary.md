@@ -1854,3 +1854,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0617 — The Lonely Stack Overflow
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0618 — The Stochastic Pointer
+*summoned by merging without reading the diff, banished only by writing a postmortem and quietly filing it away.*
