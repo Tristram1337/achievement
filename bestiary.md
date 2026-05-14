@@ -1149,3 +1149,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0382 — The Querulous Type Confusion
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0383 — The Mendacious Use-After-Free
+*looks exactly like a feature in dim light and on a Friday.*
