@@ -2448,3 +2448,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0815 — The Querulous Pointer
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0816 — The Boisterous Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
