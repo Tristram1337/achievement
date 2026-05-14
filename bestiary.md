@@ -1722,3 +1722,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0573 — The Zealous Cache Miss
 *manifests only when the senior engineer is on holiday; vanishes the moment you write a regression test.*
+
+## #0574 — The Lugubrious Stack Overflow
+*feeds on skipped tests and exhales passive-aggressive code reviews.*
