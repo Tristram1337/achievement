@@ -2766,3 +2766,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0921 — The Quixotic Integer Underflow
 *summoned by merging without reading the diff, banished only by rebooting the printer.*
+
+## #0922 — The Querulous Deadlock
+*answers only to those who can name every Rust lifetime thrice without pausing.*
