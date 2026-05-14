@@ -1479,3 +1479,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0492 — The Wistful Use-After-Free
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0493 — The Ineffable Dangling Closure
+*thrives in untyped contexts and withers in the presence of a linter.*
