@@ -2043,3 +2043,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0680 — The Recursive Buffer Overrun
 *feeds on tabs that should be spaces and exhales panic logs.*
+
+## #0681 — The Wistful Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
