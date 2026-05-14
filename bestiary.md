@@ -972,3 +972,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0323 — The Diffident Use-After-Free
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0324 — The Recursive Deadlock
+*haunts the codebase between long weekends, fed by tabs that should be spaces.*
