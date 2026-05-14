@@ -2610,3 +2610,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0869 — The Vexatious Deadlock
 *feeds on unhandled exceptions and exhales stack traces in three encodings at once.*
+
+## #0870 — The Capricious Deadlock
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
