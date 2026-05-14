@@ -1671,3 +1671,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0556 — The Loquacious Deadlock
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0557 — The Obdurate Dangling Closure
+*haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
