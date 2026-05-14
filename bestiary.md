@@ -2973,3 +2973,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0990 — The Apathetic Lost Update
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0991 — The Fractious Lost Update
+*manifests only when nobody is looking; vanishes the moment you type `git blame`.*
