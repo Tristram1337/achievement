@@ -1863,3 +1863,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0620 — The Vain Integer Underflow
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0621 — The Ineffable Stack Overflow
+*answers only to those who can explain monads to a CFO thrice without pausing.*
