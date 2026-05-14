@@ -1950,3 +1950,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0649 — The Indolent Lost Update
 *manifests only when the on-call phone is muted; vanishes the moment you explain it to a rubber duck.*
+
+## #0650 — The Capricious Type Confusion
+*looks exactly like a feature in dim light and on a Friday.*
