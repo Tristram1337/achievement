@@ -2301,3 +2301,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0766 — The Boisterous Dangling Closure
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0767 — The Yearning Dangling Closure
+*feeds on off-by-one errors and exhales deprecation warnings.*
