@@ -1728,3 +1728,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0575 — The Bombastic Type Confusion
 *manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
+
+## #0576 — The Reticent Use-After-Free
+*speaks only in stack traces, and only to those who already understand them.*
