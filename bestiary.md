@@ -2643,3 +2643,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0880 — The Boisterous Buffer Overrun
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0881 — The Saturnine Memory Leak
+*smells faintly of dust from old CRTs and old printer ink.*
