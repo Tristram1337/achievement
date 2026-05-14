@@ -2664,3 +2664,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0887 — The Pernicious Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0888 — The Pernicious Buffer Overrun
+*manifests only when the build is green; vanishes the moment you call it a feature in standup.*
