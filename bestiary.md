@@ -2352,3 +2352,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0783 — The Garrulous Race Condition
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0784 — The Gregarious Buffer Overrun
+*manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
