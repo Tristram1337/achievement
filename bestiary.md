@@ -1263,3 +1263,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0420 — The Vexatious Integer Underflow
 *summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
+
+## #0421 — The Drunken Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
