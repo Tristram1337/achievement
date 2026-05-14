@@ -2370,3 +2370,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0789 — The Tenacious Heap Corruption
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0790 — The Maudlin Race Condition
+*feeds on stale cache entries and exhales TODO comments.*
