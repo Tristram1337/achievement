@@ -1101,3 +1101,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0366 — The Fractious Stack Overflow
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0367 — The Obstinate Memory Leak
+*passes every unit test it has ever met; production has yet to forgive it.*
