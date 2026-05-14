@@ -2154,3 +2154,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0717 — The Pedantic Deadlock
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0718 — The Effulgent Lost Update
+*feeds on stale cache entries and exhales panic logs.*
