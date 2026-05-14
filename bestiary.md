@@ -1458,3 +1458,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0485 — The Quixotic Use-After-Free
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0486 — The Kindred Integer Underflow
+*passes every unit test it has ever met; production has yet to forgive it.*
