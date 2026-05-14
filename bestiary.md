@@ -3054,3 +3054,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1017 — The Truculent Stack Overflow
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #1018 — The Boisterous Phantom Read
+*haunts the codebase between long weekends, fed by off-by-one errors.*
