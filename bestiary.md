@@ -2787,3 +2787,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0928 — The Inscrutable Integer Underflow
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0929 — The Ineffable Use-After-Free
+*manifests only when the moon is full; vanishes the moment you type `git blame`.*
