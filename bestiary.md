@@ -2397,3 +2397,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0798 — The Obsequious Type Confusion
 *manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
+
+## #0799 — The Sardonic Memory Leak
+*haunts the codebase between release-freeze windows, fed by off-by-one errors.*
