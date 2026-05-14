@@ -1827,3 +1827,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0608 — The Furtive Lost Update
 *feeds on TODOs older than the company and exhales panic logs.*
+
+## #0609 — The Truculent Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
