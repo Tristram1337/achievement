@@ -2619,3 +2619,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0872 — The Kindred Buffer Overrun
 *smells faintly of static electricity and old printer ink.*
+
+## #0873 — The Lonely Heap Corruption
+*speaks only in stack traces, and only to those who already understand them.*
