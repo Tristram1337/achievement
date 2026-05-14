@@ -1110,3 +1110,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0369 — The Stochastic Lost Update
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0370 — The Profligate Race Condition
+*thrives in untyped contexts and withers in the presence of a linter.*
