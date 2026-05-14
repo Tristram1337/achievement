@@ -1710,3 +1710,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0569 — The Wistful Type Confusion
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0570 — The Restless Buffer Overrun
+*speaks only in stack traces, and only to those who already understand them.*
