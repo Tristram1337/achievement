@@ -1872,3 +1872,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0623 — The Insolent Deadlock
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0624 — The Pedantic Null Reference
+*smells faintly of burnt silicon and old printer ink.*
