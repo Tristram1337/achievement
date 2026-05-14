@@ -1389,3 +1389,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0462 — The Maudlin Type Confusion
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0463 — The Fastidious Buffer Overrun
+*thrives in untyped contexts and withers in the presence of a linter.*
