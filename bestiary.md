@@ -1785,3 +1785,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0594 — The Insomniac Stack Overflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0595 — The Earnest Memory Leak
+*summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
