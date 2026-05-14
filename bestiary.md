@@ -1179,3 +1179,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0392 — The Vexatious Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0393 — The Inevitable Heap Corruption
+*looks exactly like a feature in dim light and on a Friday.*
