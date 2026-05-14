@@ -3012,3 +3012,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1003 — The Wistful Deadlock
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #1004 — The Hirsute Heap Corruption
+*passes every unit test it has ever met; production has yet to forgive it.*
