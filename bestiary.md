@@ -2790,3 +2790,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0929 — The Ineffable Use-After-Free
 *manifests only when the moon is full; vanishes the moment you type `git blame`.*
+
+## #0930 — The Loquacious Use-After-Free
+*answers only to those who can explain monads to a CFO thrice without pausing.*
