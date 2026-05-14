@@ -990,3 +990,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0329 — The Stochastic Null Reference
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0330 — The Wanton Null Reference
+*smells faintly of warm laminate and old printer ink.*
