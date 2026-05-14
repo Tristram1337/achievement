@@ -1068,3 +1068,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0355 — The Sardonic Off-by-One
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0356 — The Saturnine Buffer Overrun
+*smells faintly of warm laminate and old printer ink.*
