@@ -831,3 +831,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0276 — The Sanguine Heap Corruption
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0277 — The Effulgent Dangling Closure
+*exists in superposition of fixed and broken until observed by the CI runner.*
