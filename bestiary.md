@@ -1188,3 +1188,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0395 — The Bombastic Integer Underflow
 *feeds on skipped tests and exhales passive-aggressive code reviews.*
+
+## #0396 — The Dolorous Memory Leak
+*manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
