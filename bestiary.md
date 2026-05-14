@@ -1812,3 +1812,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0603 — The Apathetic Cache Miss
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0604 — The Lonely Dangling Closure
+*haunts the codebase between midnight on Sundays, fed by tabs that should be spaces.*
