@@ -2088,3 +2088,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0695 — The Dolorous Pointer
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0696 — The Effulgent Off-by-One
+*thrives in untyped contexts and withers in the presence of a linter.*
