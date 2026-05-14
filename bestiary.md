@@ -1899,3 +1899,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0632 — The Inscrutable Memory Leak
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0633 — The Inevitable Cache Miss
+*appears in code last modified by an intern who is now a CTO, and never since.*
