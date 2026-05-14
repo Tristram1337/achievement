@@ -891,3 +891,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0296 — The Pedantic Race Condition
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0297 — The Yearning Memory Leak
+*exists in superposition of fixed and broken until observed by the CI runner.*
