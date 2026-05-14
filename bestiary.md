@@ -2142,3 +2142,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0713 — The Whispering Dangling Closure
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0714 — The Insomniac Memory Leak
+*summoned by merging without reading the diff, banished only by a polite email to the original author.*
