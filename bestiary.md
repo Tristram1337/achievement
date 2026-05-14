@@ -2874,3 +2874,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0957 — The Loquacious Dangling Closure
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0958 — The Obsequious Use-After-Free
+*haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
