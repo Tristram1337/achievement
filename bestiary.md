@@ -2598,3 +2598,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0865 — The Capricious Null Reference
 *is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
+
+## #0866 — The Drunken Cache Miss
+*passes every unit test it has ever met; production has yet to forgive it.*
