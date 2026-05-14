@@ -1158,3 +1158,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0385 — The Furtive Dangling Closure
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0386 — The Diffident Cache Miss
+*is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
