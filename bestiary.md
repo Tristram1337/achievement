@@ -1563,3 +1563,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0520 — The Sanguine Off-by-One
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0521 — The Loquacious Integer Underflow
+*looks exactly like a feature in dim light and on a Friday.*
