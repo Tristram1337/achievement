@@ -1839,3 +1839,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0612 — The Reticent Null Reference
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0613 — The Fractious Use-After-Free
+*feeds on TODOs older than the company and exhales TODO comments.*
