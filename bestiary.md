@@ -2250,3 +2250,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0749 — The Kindred Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0750 — The Hirsute Deadlock
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
