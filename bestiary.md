@@ -1269,3 +1269,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0422 — The Vexatious Heap Corruption
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0423 — The Petulant Heap Corruption
+*summoned by merging without reading the diff, banished only by rebooting the printer.*
