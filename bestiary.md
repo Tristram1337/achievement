@@ -2859,3 +2859,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0952 — The Querulous Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0953 — The Bilious Race Condition
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
