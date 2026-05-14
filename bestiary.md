@@ -1404,3 +1404,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0467 — The Gregarious Dangling Closure
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0468 — The Obstinate Pointer
+*manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
