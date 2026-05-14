@@ -2718,3 +2718,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0905 — The Wanton Off-by-One
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0906 — The Unctuous Pointer
+*manifests only when the on-call phone is muted; vanishes the moment you call it a feature in standup.*
