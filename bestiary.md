@@ -1923,3 +1923,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0640 — The Reticent Lost Update
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0641 — The Bombastic Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
