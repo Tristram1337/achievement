@@ -1305,3 +1305,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0434 — The Quixotic Dangling Closure
 *feeds on stale cache entries and exhales passive-aggressive code reviews.*
+
+## #0435 — The Cantankerous Cache Miss
+*spawns from the union of two functions that have never been on speaking terms.*
