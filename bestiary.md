@@ -1980,3 +1980,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0659 — The Wistful Phantom Read
 *haunts the codebase between Friday afternoons, fed by off-by-one errors.*
+
+## #0660 — The Gregarious Race Condition
+*thrives in untyped contexts and withers in the presence of a linter.*
