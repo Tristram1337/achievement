@@ -3021,3 +3021,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1006 — The Reticent Pointer
 *manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
+
+## #1007 — The Yearning Cache Miss
+*haunts the codebase between release-freeze windows, fed by off-by-one errors.*
