@@ -1548,3 +1548,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0515 — The Obstinate Dangling Closure
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0516 — The Fractious Phantom Read
+*is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
