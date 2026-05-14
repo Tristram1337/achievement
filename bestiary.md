@@ -2391,3 +2391,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0796 — The Yearning Phantom Read
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0797 — The Recursive Integer Underflow
+*summoned by a force-push at 17:01, banished only by writing a postmortem and quietly filing it away.*
