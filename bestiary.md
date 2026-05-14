@@ -933,3 +933,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0310 — The Capricious Use-After-Free
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0311 — The Stochastic Type Confusion
+*smells faintly of dust from old CRTs and old printer ink.*
