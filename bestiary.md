@@ -1791,3 +1791,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0596 — The Capricious Phantom Read
 *haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
+
+## #0597 — The Drunken Use-After-Free
+*manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
