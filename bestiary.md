@@ -1698,3 +1698,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0565 — The Recursive Memory Leak
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0566 — The Fastidious Memory Leak
+*spawns from the union of two functions that have never been on speaking terms.*
