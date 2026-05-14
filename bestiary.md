@@ -2151,3 +2151,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0716 — The Vain Null Reference
 *haunts the codebase between Friday afternoons, fed by off-by-one errors.*
+
+## #0717 — The Pedantic Deadlock
+*thrives in untyped contexts and withers in the presence of a linter.*
