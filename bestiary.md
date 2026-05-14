@@ -2046,3 +2046,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0681 — The Wistful Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0682 — The Profligate Use-After-Free
+*speaks only in stack traces, and only to those who already understand them.*
