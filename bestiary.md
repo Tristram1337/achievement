@@ -2751,3 +2751,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0916 — The Effervescent Use-After-Free
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0917 — The Obsequious Off-by-One
+*manifests only when the build is green; vanishes the moment you explain it to a rubber duck.*
