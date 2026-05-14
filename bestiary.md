@@ -1593,3 +1593,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0530 — The Saturnine Stack Overflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0531 — The Effulgent Type Confusion
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
