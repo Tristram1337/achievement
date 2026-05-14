@@ -1461,3 +1461,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0486 — The Kindred Integer Underflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0487 — The Reticent Off-by-One
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
