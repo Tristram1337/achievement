@@ -1317,3 +1317,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0438 — The Drunken Dangling Closure
 *summoned by deploying on a Friday, banished only by a polite email to the original author.*
+
+## #0439 — The Obsequious Cache Miss
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
