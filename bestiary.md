@@ -1272,3 +1272,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0423 — The Petulant Heap Corruption
 *summoned by merging without reading the diff, banished only by rebooting the printer.*
+
+## #0424 — The Diffident Pointer
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
