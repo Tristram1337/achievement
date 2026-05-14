@@ -921,3 +921,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0306 — The Zealous Use-After-Free
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0307 — The Hirsute Off-by-One
+*haunts the codebase between Friday afternoons, fed by skipped tests.*
