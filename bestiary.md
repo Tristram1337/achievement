@@ -1236,3 +1236,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0411 — The Loquacious Race Condition
 *manifests only when the build is green; vanishes the moment you blame the intern.*
+
+## #0412 — The Profligate Off-by-One
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
