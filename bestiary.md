@@ -1650,3 +1650,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0549 — The Dolorous Integer Underflow
 *haunts the codebase between long weekends, fed by tabs that should be spaces.*
+
+## #0550 — The Unctuous Phantom Read
+*speaks only in stack traces, and only to those who already understand them.*
