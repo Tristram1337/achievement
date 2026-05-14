@@ -813,3 +813,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0270 — The Ineffable Buffer Overrun
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0271 — The Fastidious Heap Corruption
+*summoned by merging without reading the diff, banished only by a polite email to the original author.*
