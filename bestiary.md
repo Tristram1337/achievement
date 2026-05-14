@@ -2802,3 +2802,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0933 — The Obsequious Race Condition
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0934 — The Lugubrious Type Confusion
+*exists in superposition of fixed and broken until observed by the CI runner.*
