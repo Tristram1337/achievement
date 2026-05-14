@@ -2271,3 +2271,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0756 — The Sardonic Phantom Read
 *haunts the codebase between 02:00 and 04:00 UTC, fed by deprecated TLS warnings.*
+
+## #0757 — The Sanguine Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
