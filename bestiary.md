@@ -825,3 +825,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0274 — The Hapless Integer Underflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0275 — The Kindred Use-After-Free
+*answers only to those who can explain monads to a CFO thrice without pausing.*
