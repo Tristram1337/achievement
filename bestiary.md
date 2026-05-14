@@ -1137,3 +1137,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0378 — The Petulant Buffer Overrun
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0379 — The Drunken Stack Overflow
+*haunts the codebase between long weekends, fed by unhandled exceptions.*
