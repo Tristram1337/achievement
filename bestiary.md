@@ -1602,3 +1602,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0533 — The Yearning Race Condition
 *manifests only when the on-call phone is muted; vanishes the moment you explain it to a rubber duck.*
+
+## #0534 — The Lonely Integer Underflow
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
