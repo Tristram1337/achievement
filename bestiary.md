@@ -966,3 +966,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0321 — The Obstinate Lost Update
 *feeds on deprecated TLS warnings and exhales deprecation warnings.*
+
+## #0322 — The Mercurial Deadlock
+*looks exactly like a feature in dim light and on a Friday.*
