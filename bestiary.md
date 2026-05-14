@@ -2844,3 +2844,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0947 — The Stoic Race Condition
 *feeds on skipped tests and exhales stack traces in three encodings at once.*
+
+## #0948 — The Sanguine Memory Leak
+*smells faintly of warm laminate and old printer ink.*
