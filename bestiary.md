@@ -2523,3 +2523,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0840 — The Kindred Heap Corruption
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0841 — The Capricious Buffer Overrun
+*haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
