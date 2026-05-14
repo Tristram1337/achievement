@@ -1893,3 +1893,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0630 — The Vacillating Deadlock
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0631 — The Yearning Deadlock
+*speaks only in stack traces, and only to those who already understand them.*
