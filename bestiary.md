@@ -1365,3 +1365,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0454 — The Furtive Memory Leak
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0455 — The Truculent Cache Miss
+*is technically not a bug but is documented as such in volume 7 of the wizard's grimoire.*
