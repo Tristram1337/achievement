@@ -2253,3 +2253,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0750 — The Hirsute Deadlock
 *is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
+
+## #0751 — The Insolent Integer Underflow
+*looks exactly like a feature in dim light and on a Friday.*
