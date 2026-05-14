@@ -2232,3 +2232,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0743 — The Earnest Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0744 — The Sardonic Buffer Overrun
+*haunts the codebase between Friday afternoons, fed by skipped tests.*
