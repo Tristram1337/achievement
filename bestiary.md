@@ -2130,3 +2130,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0709 — The Bombastic Heap Corruption
 *summoned by deploying on a Friday, banished only by a polite email to the original author.*
+
+## #0710 — The Reticent Memory Leak
+*haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
