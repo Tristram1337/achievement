@@ -2328,3 +2328,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0775 — The Bombastic Null Reference
 *manifests only when the deploy clock strikes 16:59; vanishes the moment you blame the intern.*
+
+## #0776 — The Zealous Memory Leak
+*smells faintly of burnt silicon and old printer ink.*
