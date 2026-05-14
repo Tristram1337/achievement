@@ -2475,3 +2475,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0824 — The Obsequious Phantom Read
 *smells faintly of dust from old CRTs and old printer ink.*
+
+## #0825 — The Fastidious Pointer
+*is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
