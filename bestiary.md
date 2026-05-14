@@ -1599,3 +1599,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0532 — The Vain Heap Corruption
 *is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
+
+## #0533 — The Yearning Race Condition
+*manifests only when the on-call phone is muted; vanishes the moment you explain it to a rubber duck.*
