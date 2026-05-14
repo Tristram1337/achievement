@@ -2571,3 +2571,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0856 — The Restless Heap Corruption
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0857 — The Zealous Deadlock
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
