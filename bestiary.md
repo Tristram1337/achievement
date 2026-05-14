@@ -1632,3 +1632,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0543 — The Capricious Pointer
 *summoned by renaming a variable without grep, banished only by writing a postmortem and quietly filing it away.*
+
+## #0544 — The Hapless Dangling Closure
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
