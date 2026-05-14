@@ -882,3 +882,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0293 — The Obsequious Buffer Overrun
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0294 — The Fractious Integer Underflow
+*thrives in untyped contexts and withers in the presence of a linter.*
