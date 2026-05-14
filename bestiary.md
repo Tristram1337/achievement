@@ -1512,3 +1512,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0503 — The Pernicious Null Reference
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0504 — The Gregarious Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
