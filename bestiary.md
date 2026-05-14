@@ -2499,3 +2499,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0832 — The Bombastic Buffer Overrun
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0833 — The Obsequious Dangling Closure
+*feeds on off-by-one errors and exhales panic logs.*
