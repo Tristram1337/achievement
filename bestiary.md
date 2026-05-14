@@ -1233,3 +1233,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0410 — The Imperious Pointer
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0411 — The Loquacious Race Condition
+*manifests only when the build is green; vanishes the moment you blame the intern.*
