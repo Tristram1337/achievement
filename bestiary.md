@@ -789,3 +789,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0262 — The Loquacious Phantom Read
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0263 — The Restless Memory Leak
+*manifests only when the senior engineer is on holiday; vanishes the moment you blame the intern.*
