@@ -2268,3 +2268,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0755 — The Obdurate Off-by-One
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0756 — The Sardonic Phantom Read
+*haunts the codebase between 02:00 and 04:00 UTC, fed by deprecated TLS warnings.*
