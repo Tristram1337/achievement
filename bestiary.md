@@ -924,3 +924,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0307 — The Hirsute Off-by-One
 *haunts the codebase between Friday afternoons, fed by skipped tests.*
+
+## #0308 — The Cantankerous Heap Corruption
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
