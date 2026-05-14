@@ -2139,3 +2139,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0712 — The Quixotic Off-by-One
 *summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
+
+## #0713 — The Whispering Dangling Closure
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
