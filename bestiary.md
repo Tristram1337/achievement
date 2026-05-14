@@ -2679,3 +2679,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0892 — The Kindred Cache Miss
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0893 — The Wanton Pointer
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
