@@ -1209,3 +1209,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0402 — The Vacillating Null Reference
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0403 — The Wanton Integer Underflow
+*answers only to those who can explain monads to a CFO thrice without pausing.*
