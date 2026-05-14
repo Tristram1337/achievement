@@ -2526,3 +2526,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0841 — The Capricious Buffer Overrun
 *haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
+
+## #0842 — The Obsequious Memory Leak
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
