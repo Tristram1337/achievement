@@ -2799,3 +2799,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0932 — The Truculent Deadlock
 *haunts the codebase between Friday afternoons, fed by off-by-one errors.*
+
+## #0933 — The Obsequious Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
