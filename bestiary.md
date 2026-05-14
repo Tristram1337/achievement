@@ -987,3 +987,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0328 — The Maudlin Heap Corruption
 *feeds on deprecated TLS warnings and exhales panic logs.*
+
+## #0329 — The Stochastic Null Reference
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
