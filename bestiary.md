@@ -1386,3 +1386,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0461 — The Ineffable Pointer
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0462 — The Maudlin Type Confusion
+*looks exactly like a feature in dim light and on a Friday.*
