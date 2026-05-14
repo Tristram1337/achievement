@@ -2724,3 +2724,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0907 — The Gregarious Integer Underflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0908 — The Wanton Phantom Read
+*appears in code last modified by an intern who is now a CTO, and never since.*
