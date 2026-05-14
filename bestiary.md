@@ -2316,3 +2316,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0771 — The Reticent Cache Miss
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0772 — The Petulant Stack Overflow
+*occurs whenever two leap seconds collide, which is approximately never, except in production.*
