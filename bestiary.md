@@ -1377,3 +1377,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0458 — The Insomniac Dangling Closure
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0459 — The Maudlin Null Reference
+*passes every unit test it has ever met; production has yet to forgive it.*
