@@ -1644,3 +1644,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0547 — The Quixotic Lost Update
 *haunts the codebase between Friday afternoons, fed by off-by-one errors.*
+
+## #0548 — The Petulant Type Confusion
+*summoned by deploying on a Friday, banished only by rebooting the printer.*
