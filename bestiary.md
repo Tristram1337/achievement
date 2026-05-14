@@ -894,3 +894,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0297 — The Yearning Memory Leak
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0298 — The Petulant Lost Update
+*summoned by running tests in the wrong directory, banished only by rebooting the printer.*
