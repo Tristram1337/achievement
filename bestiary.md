@@ -2295,3 +2295,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0764 — The Vexatious Phantom Read
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0765 — The Furtive Use-After-Free
+*passes every unit test it has ever met; production has yet to forgive it.*
