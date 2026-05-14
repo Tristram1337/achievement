@@ -1485,3 +1485,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0494 — The Recursive Off-by-One
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0495 — The Cantankerous Use-After-Free
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
