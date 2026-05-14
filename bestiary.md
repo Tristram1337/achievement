@@ -2748,3 +2748,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0915 — The Imperious Lost Update
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0916 — The Effervescent Use-After-Free
+*looks exactly like a feature in dim light and on a Friday.*
