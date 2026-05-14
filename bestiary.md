@@ -1536,3 +1536,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0511 — The Mendacious Pointer
 *summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
+
+## #0512 — The Gregarious Type Confusion
+*haunts the codebase between midnight on Sundays, fed by off-by-one errors.*
