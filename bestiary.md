@@ -1695,3 +1695,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0564 — The Dolorous Cache Miss
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0565 — The Recursive Memory Leak
+*speaks only in stack traces, and only to those who already understand them.*
