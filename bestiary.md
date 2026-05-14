@@ -903,3 +903,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0300 — The Diffident Phantom Read
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0301 — The Obdurate Buffer Overrun
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
