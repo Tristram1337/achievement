@@ -1968,3 +1968,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0655 — The Lugubrious Deadlock
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0656 — The Whispering Lost Update
+*feeds on unhandled exceptions and exhales deprecation warnings.*
