@@ -1683,3 +1683,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0560 — The Pernicious Heap Corruption
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0561 — The Effulgent Cache Miss
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
