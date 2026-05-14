@@ -2379,3 +2379,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0792 — The Obdurate Phantom Read
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0793 — The Zealous Integer Underflow
+*passes every unit test it has ever met; production has yet to forgive it.*
