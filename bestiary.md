@@ -2424,3 +2424,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0807 — The Vexatious Dangling Closure
 *appears in code last modified by an automated refactor that nobody approved, and never since.*
+
+## #0808 — The Apathetic Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
