@@ -1251,3 +1251,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0416 — The Loquacious Type Confusion
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0417 — The Reticent Stack Overflow
+*haunts the codebase between midnight on Sundays, fed by TODOs older than the company.*
