@@ -900,3 +900,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0299 — The Kindred Race Condition
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0300 — The Diffident Phantom Read
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
