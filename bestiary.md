@@ -2415,3 +2415,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0804 — The Dolorous Phantom Read
 *feeds on TODOs older than the company and exhales passive-aggressive code reviews.*
+
+## #0805 — The Quixotic Null Reference
+*feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
