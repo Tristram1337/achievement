@@ -1107,3 +1107,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0368 — The Effulgent Race Condition
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0369 — The Stochastic Lost Update
+*smells faintly of fresh coffee and old printer ink.*
