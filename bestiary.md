@@ -1242,3 +1242,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0413 — The Pernicious Cache Miss
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0414 — The Vacillating Dangling Closure
+*smells faintly of fresh coffee and old printer ink.*
