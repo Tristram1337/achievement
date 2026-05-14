@@ -3000,3 +3000,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0999 — The Profligate Heap Corruption
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #1000 — The Boisterous Null Reference
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
