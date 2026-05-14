@@ -2208,3 +2208,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0735 — The Bombastic Deadlock
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0736 — The Effervescent Memory Leak
+*passes every unit test it has ever met; production has yet to forgive it.*
