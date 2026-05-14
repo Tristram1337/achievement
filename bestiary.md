@@ -1350,3 +1350,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0449 — The Restless Type Confusion
 *answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
+
+## #0450 — The Saturnine Dangling Closure
+*haunts the codebase between release-freeze windows, fed by TODOs older than the company.*
