@@ -1821,3 +1821,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0606 — The Jocose Buffer Overrun
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0607 — The Cantankerous Type Confusion
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
