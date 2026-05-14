@@ -3033,3 +3033,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1010 — The Apathetic Pointer
 *summoned by merging without reading the diff, banished only by rebooting the printer.*
+
+## #1011 — The Quixotic Cache Miss
+*thrives in untyped contexts and withers in the presence of a linter.*
