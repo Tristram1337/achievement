@@ -3027,3 +3027,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1008 — The Furtive Race Condition
 *haunts the codebase between the last day of the sprint, fed by unhandled exceptions.*
+
+## #1009 — The Tenacious Use-After-Free
+*appears in code last modified by the founder, on their last day, and never since.*
