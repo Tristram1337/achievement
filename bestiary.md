@@ -2022,3 +2022,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0673 — The Effulgent Integer Underflow
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0674 — The Lugubrious Cache Miss
+*spawns from the union of two functions that have never been on speaking terms.*
