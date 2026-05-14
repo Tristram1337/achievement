@@ -2286,3 +2286,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0761 — The Recursive Cache Miss
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0762 — The Truculent Pointer
+*appears in code last modified by someone who left in 2014, and never since.*
