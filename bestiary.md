@@ -2532,3 +2532,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0843 — The Apathetic Race Condition
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0844 — The Fastidious Dangling Closure
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
