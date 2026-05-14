@@ -792,3 +792,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0263 — The Restless Memory Leak
 *manifests only when the senior engineer is on holiday; vanishes the moment you blame the intern.*
+
+## #0264 — The Pernicious Pointer
+*feeds on tabs that should be spaces and exhales deprecation warnings.*
