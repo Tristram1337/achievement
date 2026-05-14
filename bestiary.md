@@ -2016,3 +2016,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0671 — The Petulant Deadlock
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0672 — The Sanguine Lost Update
+*passes every unit test it has ever met; production has yet to forgive it.*
