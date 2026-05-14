@@ -2025,3 +2025,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0674 — The Lugubrious Cache Miss
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0675 — The Mercurial Integer Underflow
+*spawns from the union of two functions that have never been on speaking terms.*
