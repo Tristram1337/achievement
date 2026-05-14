@@ -1482,3 +1482,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0493 — The Ineffable Dangling Closure
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0494 — The Recursive Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
