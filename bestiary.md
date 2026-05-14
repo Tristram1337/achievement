@@ -1560,3 +1560,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0519 — The Indolent Phantom Read
 *smells faintly of static electricity and old printer ink.*
+
+## #0520 — The Sanguine Off-by-One
+*appears in code last modified by the founder, on their last day, and never since.*
