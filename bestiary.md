@@ -2469,3 +2469,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0822 — The Pedantic Stack Overflow
 *answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
+
+## #0823 — The Tenacious Integer Underflow
+*occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
