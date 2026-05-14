@@ -2457,3 +2457,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0818 — The Jocose Null Reference
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0819 — The Stoic Type Confusion
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
