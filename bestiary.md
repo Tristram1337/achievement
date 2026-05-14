@@ -1578,3 +1578,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0525 — The Pernicious Stack Overflow
 *occurs whenever two leap seconds collide, which is approximately never, except in production.*
+
+## #0526 — The Maudlin Deadlock
+*manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
