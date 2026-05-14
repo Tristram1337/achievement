@@ -2052,3 +2052,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0683 — The Reticent Deadlock
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0684 — The Querulous Use-After-Free
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you explain it to a rubber duck.*
