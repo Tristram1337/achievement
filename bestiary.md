@@ -1044,3 +1044,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0347 — The Nihilistic Stack Overflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0348 — The Inevitable Use-After-Free
+*speaks only in stack traces, and only to those who already understand them.*
