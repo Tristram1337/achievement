@@ -1119,3 +1119,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0372 — The Loquacious Lost Update
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0373 — The Insomniac Lost Update
+*exists in superposition of fixed and broken until observed by the CI runner.*
