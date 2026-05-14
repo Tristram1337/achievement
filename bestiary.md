@@ -1140,3 +1140,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0379 — The Drunken Stack Overflow
 *haunts the codebase between long weekends, fed by unhandled exceptions.*
+
+## #0380 — The Imperious Race Condition
+*spawns from the union of two functions that have never been on speaking terms.*
