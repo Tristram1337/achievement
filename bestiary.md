@@ -2421,3 +2421,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0806 — The Inscrutable Heap Corruption
 *manifests only when the build is green; vanishes the moment you open the file.*
+
+## #0807 — The Vexatious Dangling Closure
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
