@@ -957,3 +957,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0318 — The Profligate Pointer
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0319 — The Cantankerous Dangling Closure
+*manifests only when two interns argue about indentation; vanishes the moment you attach a debugger.*
