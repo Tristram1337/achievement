@@ -1794,3 +1794,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0597 — The Drunken Use-After-Free
 *manifests only when two interns argue about indentation; vanishes the moment you explain it to a rubber duck.*
+
+## #0598 — The Tenacious Deadlock
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
