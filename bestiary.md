@@ -2331,3 +2331,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0776 — The Zealous Memory Leak
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0777 — The Mendacious Memory Leak
+*summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
