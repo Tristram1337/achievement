@@ -810,3 +810,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0269 — The Fastidious Deadlock
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0270 — The Ineffable Buffer Overrun
+*passes every unit test it has ever met; production has yet to forgive it.*
