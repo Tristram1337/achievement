@@ -2991,3 +2991,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0996 — The Restless Off-by-One
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0997 — The Garrulous Use-After-Free
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
