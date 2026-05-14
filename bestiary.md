@@ -2367,3 +2367,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0788 — The Whispering Off-by-One
 *haunts the codebase between long weekends, fed by skipped tests.*
+
+## #0789 — The Tenacious Heap Corruption
+*thrives in untyped contexts and withers in the presence of a linter.*
