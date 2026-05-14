@@ -981,3 +981,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0326 — The Unctuous Race Condition
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0327 — The Sanguine Stack Overflow
+*smells faintly of wet cardboard and old printer ink.*
