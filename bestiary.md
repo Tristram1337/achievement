@@ -2157,3 +2157,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0718 — The Effulgent Lost Update
 *feeds on stale cache entries and exhales panic logs.*
+
+## #0719 — The Capricious Stack Overflow
+*exists in superposition of fixed and broken until observed by the CI runner.*
