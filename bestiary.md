@@ -2049,3 +2049,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0682 — The Profligate Use-After-Free
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0683 — The Reticent Deadlock
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
