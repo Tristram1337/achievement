@@ -1008,3 +1008,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0335 — The Apathetic Integer Underflow
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0336 — The Pernicious Integer Underflow
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
