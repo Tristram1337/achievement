@@ -2412,3 +2412,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0803 — The Mendacious Off-by-One
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0804 — The Dolorous Phantom Read
+*feeds on TODOs older than the company and exhales passive-aggressive code reviews.*
