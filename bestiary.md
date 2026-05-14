@@ -855,3 +855,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0284 — The Tenacious Pointer
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0285 — The Insolent Dangling Closure
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
