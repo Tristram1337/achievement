@@ -1815,3 +1815,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0604 — The Lonely Dangling Closure
 *haunts the codebase between midnight on Sundays, fed by tabs that should be spaces.*
+
+## #0605 — The Stoic Cache Miss
+*looks exactly like a feature in dim light and on a Friday.*
