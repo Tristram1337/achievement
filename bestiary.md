@@ -1704,3 +1704,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0567 — The Loquacious Pointer
 *occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
+
+## #0568 — The Mendacious Dangling Closure
+*looks exactly like a feature in dim light and on a Friday.*
