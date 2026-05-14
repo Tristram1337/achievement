@@ -2817,3 +2817,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0938 — The Inevitable Race Condition
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0939 — The Wanton Dangling Closure
+*looks exactly like a feature in dim light and on a Friday.*
