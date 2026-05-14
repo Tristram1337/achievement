@@ -2961,3 +2961,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0986 — The Inevitable Memory Leak
 *summoned by running tests in the wrong directory, banished only by rebooting the printer.*
+
+## #0987 — The Wanton Memory Leak
+*manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
