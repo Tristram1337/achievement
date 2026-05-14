@@ -2193,3 +2193,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0730 — The Dolorous Race Condition
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0731 — The Querulous Buffer Overrun
+*exists in superposition of fixed and broken until observed by the CI runner.*
