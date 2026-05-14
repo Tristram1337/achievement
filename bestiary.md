@@ -1395,3 +1395,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0464 — The Wanton Cache Miss
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0465 — The Obstinate Integer Underflow
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
