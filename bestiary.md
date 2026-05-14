@@ -2463,3 +2463,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0820 — The Drunken Null Reference
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0821 — The Saturnine Use-After-Free
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
