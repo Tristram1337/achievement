@@ -870,3 +870,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0289 — The Mercurial Type Confusion
 *feeds on deprecated TLS warnings and exhales passive-aggressive code reviews.*
+
+## #0290 — The Quixotic Heap Corruption
+*spawns from the union of two functions that have never been on speaking terms.*
