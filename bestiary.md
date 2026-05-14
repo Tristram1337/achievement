@@ -2298,3 +2298,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0765 — The Furtive Use-After-Free
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0766 — The Boisterous Dangling Closure
+*speaks only in stack traces, and only to those who already understand them.*
