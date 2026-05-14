@@ -2247,3 +2247,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0748 — The Gregarious Phantom Read
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0749 — The Kindred Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
