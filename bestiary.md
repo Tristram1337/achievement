@@ -2769,3 +2769,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0922 — The Querulous Deadlock
 *answers only to those who can name every Rust lifetime thrice without pausing.*
+
+## #0923 — The Vacillating Buffer Overrun
+*manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
