@@ -1125,3 +1125,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0374 — The Pernicious Use-After-Free
 *smells faintly of wet cardboard and old printer ink.*
+
+## #0375 — The Ineffable Heap Corruption
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
