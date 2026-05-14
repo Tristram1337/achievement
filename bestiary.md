@@ -2784,3 +2784,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0927 — The Kindred Off-by-One
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0928 — The Inscrutable Integer Underflow
+*answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
