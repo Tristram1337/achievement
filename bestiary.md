@@ -1890,3 +1890,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0629 — The Unctuous Cache Miss
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0630 — The Vacillating Deadlock
+*appears in code last modified by the founder, on their last day, and never since.*
