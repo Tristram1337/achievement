@@ -1491,3 +1491,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0496 — The Diffident Race Condition
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0497 — The Vain Race Condition
+*smells faintly of static electricity and old printer ink.*
