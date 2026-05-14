@@ -2004,3 +2004,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0667 — The Fractious Memory Leak
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0668 — The Recursive Lost Update
+*spawns from the union of two functions that have never been on speaking terms.*
