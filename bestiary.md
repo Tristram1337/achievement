@@ -1620,3 +1620,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0539 — The Insomniac Phantom Read
 *feeds on stale cache entries and exhales deprecation warnings.*
+
+## #0540 — The Maudlin Phantom Read
+*looks exactly like a feature in dim light and on a Friday.*
