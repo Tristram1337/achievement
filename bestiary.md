@@ -1335,3 +1335,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0444 — The Truculent Heap Corruption
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0445 — The Inevitable Type Confusion
+*passes every unit test it has ever met; production has yet to forgive it.*
