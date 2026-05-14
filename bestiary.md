@@ -2631,3 +2631,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0876 — The Jocose Use-After-Free
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0877 — The Diffident Off-by-One
+*passes every unit test it has ever met; production has yet to forgive it.*
