@@ -2136,3 +2136,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0711 — The Tenacious Phantom Read
 *occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
+
+## #0712 — The Quixotic Off-by-One
+*summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
