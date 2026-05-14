@@ -1674,3 +1674,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0557 — The Obdurate Dangling Closure
 *haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
+
+## #0558 — The Obdurate Use-After-Free
+*spawns from the union of two functions that have never been on speaking terms.*
