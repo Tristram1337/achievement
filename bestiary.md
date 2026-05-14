@@ -1884,3 +1884,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0627 — The Effervescent Type Confusion
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0628 — The Hapless Race Condition
+*speaks only in stack traces, and only to those who already understand them.*
