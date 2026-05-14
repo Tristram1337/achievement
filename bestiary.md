@@ -2520,3 +2520,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0839 — The Pernicious Off-by-One
 *summoned by running tests in the wrong directory, banished only by deleting node_modules and starting over.*
+
+## #0840 — The Kindred Heap Corruption
+*speaks only in stack traces, and only to those who already understand them.*
