@@ -2979,3 +2979,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0992 — The Vexatious Stack Overflow
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0993 — The Reticent Phantom Read
+*passes every unit test it has ever met; production has yet to forgive it.*
