@@ -2484,3 +2484,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0827 — The Melancholic Off-by-One
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0828 — The Bilious Cache Miss
+*exists in superposition of fixed and broken until observed by the CI runner.*
