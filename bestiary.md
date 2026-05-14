@@ -1176,3 +1176,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0391 — The Unctuous Memory Leak
 *manifests only when the moon is full; vanishes the moment you call it a feature in standup.*
+
+## #0392 — The Vexatious Lost Update
+*speaks only in stack traces, and only to those who already understand them.*
