@@ -993,3 +993,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0330 — The Wanton Null Reference
 *smells faintly of warm laminate and old printer ink.*
+
+## #0331 — The Quixotic Race Condition
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you call it a feature in standup.*
