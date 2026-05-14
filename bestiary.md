@@ -2040,3 +2040,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0679 — The Ineffable Off-by-One
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0680 — The Recursive Buffer Overrun
+*feeds on tabs that should be spaces and exhales panic logs.*
