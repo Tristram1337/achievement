@@ -2178,3 +2178,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0725 — The Apathetic Dangling Closure
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0726 — The Cantankerous Integer Underflow
+*thrives in untyped contexts and withers in the presence of a linter.*
