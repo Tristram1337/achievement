@@ -2697,3 +2697,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0898 — The Jocose Cache Miss
 *summoned by a force-push at 17:01, banished only by a polite email to the original author.*
+
+## #0899 — The Gregarious Memory Leak
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
