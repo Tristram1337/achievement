@@ -2091,3 +2091,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0696 — The Effulgent Off-by-One
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0697 — The Mercurial Cache Miss
+*smells faintly of dust from old CRTs and old printer ink.*
