@@ -1752,3 +1752,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0583 — The Drunken Race Condition
 *summoned by a force-push at 17:01, banished only by deleting node_modules and starting over.*
+
+## #0584 — The Querulous Off-by-One
+*spawns from the union of two functions that have never been on speaking terms.*
