@@ -2970,3 +2970,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0989 — The Maudlin Lost Update
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0990 — The Apathetic Lost Update
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
