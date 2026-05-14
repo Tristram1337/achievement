@@ -2793,3 +2793,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0930 — The Loquacious Use-After-Free
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0931 — The Capricious Integer Underflow
+*manifests only when nobody is looking; vanishes the moment you call it a feature in standup.*
