@@ -2562,3 +2562,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0853 — The Obdurate Lost Update
 *feeds on stale cache entries and exhales deprecation warnings.*
+
+## #0854 — The Vexatious Null Reference
+*speaks only in stack traces, and only to those who already understand them.*
