@@ -2478,3 +2478,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0825 — The Fastidious Pointer
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0826 — The Unctuous Dangling Closure
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
