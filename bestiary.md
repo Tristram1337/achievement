@@ -1770,3 +1770,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0589 — The Hapless Cache Miss
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0590 — The Kindred Type Confusion
+*speaks only in stack traces, and only to those who already understand them.*
