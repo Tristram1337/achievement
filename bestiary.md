@@ -1701,3 +1701,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0566 — The Fastidious Memory Leak
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0567 — The Loquacious Pointer
+*occurs whenever a primary key crosses 2^31, which is approximately never, except in production.*
