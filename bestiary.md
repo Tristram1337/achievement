@@ -1437,3 +1437,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0478 — The Restless Race Condition
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0479 — The Imperious Off-by-One
+*manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
