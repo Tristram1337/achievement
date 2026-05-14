@@ -912,3 +912,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0303 — The Insolent Stack Overflow
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0304 — The Wistful Heap Corruption
+*exists in superposition of fixed and broken until observed by the CI runner.*
