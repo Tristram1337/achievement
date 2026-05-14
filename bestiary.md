@@ -2334,3 +2334,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0777 — The Mendacious Memory Leak
 *summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
+
+## #0778 — The Hapless Stack Overflow
+*appears in code last modified by someone who left in 2014, and never since.*
