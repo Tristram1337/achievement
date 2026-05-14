@@ -2754,3 +2754,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0917 — The Obsequious Off-by-One
 *manifests only when the build is green; vanishes the moment you explain it to a rubber duck.*
+
+## #0918 — The Furtive Integer Underflow
+*speaks only in stack traces, and only to those who already understand them.*
