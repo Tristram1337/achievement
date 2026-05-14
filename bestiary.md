@@ -1212,3 +1212,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0403 — The Wanton Integer Underflow
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0404 — The Gregarious Cache Miss
+*spawns from the union of two functions that have never been on speaking terms.*
