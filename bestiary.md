@@ -1680,3 +1680,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0559 — The Sardonic Integer Underflow
 *manifests only when nobody is looking; vanishes the moment you type `git blame`.*
+
+## #0560 — The Pernicious Heap Corruption
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
