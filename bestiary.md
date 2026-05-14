@@ -2220,3 +2220,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0739 — The Gregarious Stack Overflow
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0740 — The Obsequious Heap Corruption
+*speaks only in stack traces, and only to those who already understand them.*
