@@ -2082,3 +2082,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0693 — The Bilious Use-After-Free
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0694 — The Inscrutable Null Reference
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
