@@ -2292,3 +2292,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0763 — The Jocose Memory Leak
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0764 — The Vexatious Phantom Read
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
