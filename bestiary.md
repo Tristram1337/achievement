@@ -1224,3 +1224,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0407 — The Obdurate Stack Overflow
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0408 — The Inevitable Integer Underflow
+*feeds on off-by-one errors and exhales stack traces in three encodings at once.*
