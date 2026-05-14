@@ -1626,3 +1626,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0541 — The Reticent Integer Underflow
 *feeds on stale cache entries and exhales stack traces in three encodings at once.*
+
+## #0542 — The Imperious Use-After-Free
+*haunts the codebase between Friday afternoons, fed by deprecated TLS warnings.*
