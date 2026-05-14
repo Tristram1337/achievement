@@ -876,3 +876,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0291 — The Earnest Deadlock
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0292 — The Petulant Pointer
+*speaks only in stack traces, and only to those who already understand them.*
