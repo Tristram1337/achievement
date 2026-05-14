@@ -2712,3 +2712,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0903 — The Earnest Off-by-One
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0904 — The Mendacious Deadlock
+*feeds on unhandled exceptions and exhales passive-aggressive code reviews.*
