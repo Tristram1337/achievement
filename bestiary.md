@@ -960,3 +960,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0319 — The Cantankerous Dangling Closure
 *manifests only when two interns argue about indentation; vanishes the moment you attach a debugger.*
+
+## #0320 — The Boisterous Integer Underflow
+*feeds on deprecated TLS warnings and exhales deprecation warnings.*
