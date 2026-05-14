@@ -1416,3 +1416,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0471 — The Effulgent Memory Leak
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0472 — The Profligate Lost Update
+*haunts the codebase between release-freeze windows, fed by skipped tests.*
