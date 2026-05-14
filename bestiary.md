@@ -1419,3 +1419,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0472 — The Profligate Lost Update
 *haunts the codebase between release-freeze windows, fed by skipped tests.*
+
+## #0473 — The Hapless Null Reference
+*manifests only when the moon is full; vanishes the moment you explain it to a rubber duck.*
