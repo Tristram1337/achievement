@@ -2715,3 +2715,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0904 — The Mendacious Deadlock
 *feeds on unhandled exceptions and exhales passive-aggressive code reviews.*
+
+## #0905 — The Wanton Off-by-One
+*spawns from the union of two functions that have never been on speaking terms.*
