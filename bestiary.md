@@ -1857,3 +1857,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0618 — The Stochastic Pointer
 *summoned by merging without reading the diff, banished only by writing a postmortem and quietly filing it away.*
+
+## #0619 — The Maudlin Cache Miss
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
