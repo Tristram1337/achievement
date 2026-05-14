@@ -2742,3 +2742,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0913 — The Garrulous Off-by-One
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0914 — The Imperious Cache Miss
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
