@@ -1533,3 +1533,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0510 — The Pedantic Heap Corruption
 *haunts the codebase between long weekends, fed by skipped tests.*
+
+## #0511 — The Mendacious Pointer
+*summoned by deploying on a Friday, banished only by writing a postmortem and quietly filing it away.*
