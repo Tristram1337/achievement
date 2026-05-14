@@ -2640,3 +2640,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0879 — The Insomniac Pointer
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0880 — The Boisterous Buffer Overrun
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
