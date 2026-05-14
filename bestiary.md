@@ -2451,3 +2451,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0816 — The Boisterous Lost Update
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0817 — The Nihilistic Heap Corruption
+*spawns from the union of two functions that have never been on speaking terms.*
