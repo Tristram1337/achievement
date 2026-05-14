@@ -1281,3 +1281,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0426 — The Petulant Null Reference
 *occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
+
+## #0427 — The Stochastic Stack Overflow
+*is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
