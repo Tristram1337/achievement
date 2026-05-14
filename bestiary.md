@@ -1506,3 +1506,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0501 — The Whispering Integer Underflow
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0502 — The Truculent Race Condition
+*thrives in untyped contexts and withers in the presence of a linter.*
