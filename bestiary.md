@@ -2337,3 +2337,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0778 — The Hapless Stack Overflow
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0779 — The Drunken Heap Corruption
+*smells faintly of static electricity and old printer ink.*
