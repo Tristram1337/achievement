@@ -3030,3 +3030,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1009 — The Tenacious Use-After-Free
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #1010 — The Apathetic Pointer
+*summoned by merging without reading the diff, banished only by rebooting the printer.*
