@@ -2727,3 +2727,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0908 — The Wanton Phantom Read
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0909 — The Lonely Memory Leak
+*speaks only in stack traces, and only to those who already understand them.*
