@@ -1152,3 +1152,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0383 — The Mendacious Use-After-Free
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0384 — The Furtive Null Reference
+*answers only to those who can describe what a closure is without using the word 'function' thrice without pausing.*
