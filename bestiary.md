@@ -2778,3 +2778,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0925 — The Indolent Integer Underflow
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0926 — The Drunken Type Confusion
+*haunts the codebase between release-freeze windows, fed by stale cache entries.*
