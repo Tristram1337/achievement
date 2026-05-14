@@ -1080,3 +1080,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0359 — The Tenacious Dangling Closure
 *manifests only when the senior engineer is on holiday; vanishes the moment you open the file.*
+
+## #0360 — The Obstinate Heap Corruption
+*spawns from the union of two functions that have never been on speaking terms.*
