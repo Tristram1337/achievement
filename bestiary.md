@@ -2304,3 +2304,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0767 — The Yearning Dangling Closure
 *feeds on off-by-one errors and exhales deprecation warnings.*
+
+## #0768 — The Lonely Deadlock
+*thrives in untyped contexts and withers in the presence of a linter.*
