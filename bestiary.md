@@ -1584,3 +1584,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0527 — The Stochastic Use-After-Free
 *smells faintly of fresh coffee and old printer ink.*
+
+## #0528 — The Saturnine Cache Miss
+*smells faintly of wet cardboard and old printer ink.*
