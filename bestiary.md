@@ -2409,3 +2409,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0802 — The Zealous Stack Overflow
 *answers only to those who can explain monads to a CFO thrice without pausing.*
+
+## #0803 — The Mendacious Off-by-One
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
