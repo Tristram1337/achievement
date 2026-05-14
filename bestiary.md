@@ -1260,3 +1260,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0419 — The Pedantic Dangling Closure
 *manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
+
+## #0420 — The Vexatious Integer Underflow
+*summoned by merging without reading the diff, banished only by deleting node_modules and starting over.*
