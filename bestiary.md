@@ -1572,3 +1572,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0523 — The Saturnine Null Reference
 *is technically not a bug but is documented as such in volume 17 of the wizard's grimoire.*
+
+## #0524 — The Bilious Type Confusion
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
