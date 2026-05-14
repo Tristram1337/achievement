@@ -3018,3 +3018,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #1005 — The Effulgent Stack Overflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #1006 — The Reticent Pointer
+*manifests only when the senior engineer is on holiday; vanishes the moment you explain it to a rubber duck.*
