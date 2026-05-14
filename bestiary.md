@@ -2406,3 +2406,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0801 — The Pedantic Cache Miss
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0802 — The Zealous Stack Overflow
+*answers only to those who can explain monads to a CFO thrice without pausing.*
