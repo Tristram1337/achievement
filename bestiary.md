@@ -2427,3 +2427,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0808 — The Apathetic Phantom Read
 *thrives in untyped contexts and withers in the presence of a linter.*
+
+## #0809 — The Indolent Dangling Closure
+*is technically not a bug but is documented as such in volume 42 of the wizard's grimoire.*
