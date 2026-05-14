@@ -1284,3 +1284,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0427 — The Stochastic Stack Overflow
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0428 — The Stoic Dangling Closure
+*looks exactly like a feature in dim light and on a Friday.*
