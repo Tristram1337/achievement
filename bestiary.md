@@ -2166,3 +2166,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0721 — The Fractious Deadlock
 *feeds on unhandled exceptions and exhales stack traces in three encodings at once.*
+
+## #0722 — The Saturnine Pointer
+*passes every unit test it has ever met; production has yet to forgive it.*
