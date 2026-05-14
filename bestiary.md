@@ -1926,3 +1926,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0641 — The Bombastic Off-by-One
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0642 — The Effervescent Phantom Read
+*manifests only when the senior engineer is on holiday; vanishes the moment you attach a debugger.*
