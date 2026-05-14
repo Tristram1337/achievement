@@ -2202,3 +2202,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0733 — The Fractious Type Confusion
 *feeds on off-by-one errors and exhales stack traces in three encodings at once.*
+
+## #0734 — The Melancholic Heap Corruption
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
