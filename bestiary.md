@@ -915,3 +915,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0304 — The Wistful Heap Corruption
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0305 — The Restless Integer Underflow
+*passes every unit test it has ever met; production has yet to forgive it.*
