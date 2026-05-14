@@ -2925,3 +2925,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0974 — The Dolorous Null Reference
 *manifests only when the build is green; vanishes the moment you open the file.*
+
+## #0975 — The Ineffable Type Confusion
+*manifests only when the build is green; vanishes the moment you attach a debugger.*
