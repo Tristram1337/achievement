@@ -2184,3 +2184,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0727 — The Diffident Memory Leak
 *smells faintly of burnt silicon and old printer ink.*
+
+## #0728 — The Pedantic Buffer Overrun
+*speaks only in stack traces, and only to those who already understand them.*
