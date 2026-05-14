@@ -1047,3 +1047,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0348 — The Inevitable Use-After-Free
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0349 — The Jocose Heap Corruption
+*exists in superposition of fixed and broken until observed by the CI runner.*
