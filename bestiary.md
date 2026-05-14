@@ -2244,3 +2244,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0747 — The Stochastic Dangling Closure
 *manifests only when two interns argue about indentation; vanishes the moment you type `git blame`.*
+
+## #0748 — The Gregarious Phantom Read
+*appears in code last modified by an intern who is now a CTO, and never since.*
