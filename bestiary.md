@@ -2496,3 +2496,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0831 — The Inevitable Deadlock
 *appears in code last modified by a contractor whose name nobody remembers, and never since.*
+
+## #0832 — The Bombastic Buffer Overrun
+*appears in code last modified by an automated refactor that nobody approved, and never since.*
