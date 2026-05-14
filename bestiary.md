@@ -1818,3 +1818,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0605 — The Stoic Cache Miss
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0606 — The Jocose Buffer Overrun
+*speaks only in stack traces, and only to those who already understand them.*
