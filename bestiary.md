@@ -2385,3 +2385,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0794 — The Mercurial Off-by-One
 *haunts the codebase between midnight on Sundays, fed by deprecated TLS warnings.*
+
+## #0795 — The Fractious Cache Miss
+*feeds on deprecated TLS warnings and exhales panic logs.*
