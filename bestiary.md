@@ -1077,3 +1077,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0358 — The Inscrutable Pointer
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0359 — The Tenacious Dangling Closure
+*manifests only when the senior engineer is on holiday; vanishes the moment you open the file.*
