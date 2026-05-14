@@ -2535,3 +2535,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0844 — The Fastidious Dangling Closure
 *summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
+
+## #0845 — The Obstinate Cache Miss
+*feeds on deprecated TLS warnings and exhales TODO comments.*
