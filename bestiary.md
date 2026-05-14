@@ -1185,3 +1185,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0394 — The Profligate Deadlock
 *summoned by merging without reading the diff, banished only by a polite email to the original author.*
+
+## #0395 — The Bombastic Integer Underflow
+*feeds on skipped tests and exhales passive-aggressive code reviews.*
