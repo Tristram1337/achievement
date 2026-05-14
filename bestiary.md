@@ -2133,3 +2133,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0710 — The Reticent Memory Leak
 *haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
+
+## #0711 — The Tenacious Phantom Read
+*occurs whenever the system clock drifts by exactly one millisecond, which is approximately never, except in production.*
