@@ -2355,3 +2355,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0784 — The Gregarious Buffer Overrun
 *manifests only when the on-call phone is muted; vanishes the moment you type `git blame`.*
+
+## #0785 — The Recursive Use-After-Free
+*is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
