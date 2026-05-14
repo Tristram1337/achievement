@@ -1464,3 +1464,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0487 — The Reticent Off-by-One
 *leaves no trace in logs, but the test suite weeps for hours afterward.*
+
+## #0488 — The Effulgent Heap Corruption
+*speaks only in stack traces, and only to those who already understand them.*
