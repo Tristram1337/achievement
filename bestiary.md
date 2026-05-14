@@ -2238,3 +2238,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0745 — The Sardonic Null Reference
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0746 — The Stoic Pointer
+*smells faintly of static electricity and old printer ink.*
