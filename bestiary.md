@@ -1290,3 +1290,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0429 — The Nihilistic Null Reference
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0430 — The Tenacious Null Reference
+*manifests only when the deploy clock strikes 16:59; vanishes the moment you blame the intern.*
