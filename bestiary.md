@@ -1917,3 +1917,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0638 — The Bombastic Race Condition
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0639 — The Obdurate Null Reference
+*passes every unit test it has ever met; production has yet to forgive it.*
