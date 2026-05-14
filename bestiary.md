@@ -1191,3 +1191,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0396 — The Dolorous Memory Leak
 *manifests only when two interns argue about indentation; vanishes the moment you write a regression test.*
+
+## #0397 — The Sardonic Lost Update
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
