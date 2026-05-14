@@ -1869,3 +1869,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0622 — The Ineffable Integer Underflow
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0623 — The Insolent Deadlock
+*smells faintly of fresh coffee and old printer ink.*
