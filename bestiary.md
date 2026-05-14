@@ -2556,3 +2556,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0851 — The Querulous Memory Leak
 *summoned by deploying on a Friday, banished only by deleting node_modules and starting over.*
+
+## #0852 — The Sanguine Deadlock
+*passes every unit test it has ever met; production has yet to forgive it.*
