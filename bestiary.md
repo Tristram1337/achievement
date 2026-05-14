@@ -1452,3 +1452,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0483 — The Furtive Pointer
 *appears in code last modified by someone who left in 2014, and never since.*
+
+## #0484 — The Quixotic Phantom Read
+*thrives in untyped contexts and withers in the presence of a linter.*
