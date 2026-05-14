@@ -2841,3 +2841,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0946 — The Obdurate Heap Corruption
 *is technically not a bug but is documented as such in volume 108 of the wizard's grimoire.*
+
+## #0947 — The Stoic Race Condition
+*feeds on skipped tests and exhales stack traces in three encodings at once.*
