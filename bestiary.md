@@ -1275,3 +1275,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0424 — The Diffident Pointer
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0425 — The Zealous Phantom Read
+*occurs whenever DST changes mid-transaction, which is approximately never, except in production.*
