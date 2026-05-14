@@ -852,3 +852,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0283 — The Wistful Lost Update
 *appears in code last modified by the founder, on their last day, and never since.*
+
+## #0284 — The Tenacious Pointer
+*spawns from the union of two functions that have never been on speaking terms.*
