@@ -2829,3 +2829,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0942 — The Stochastic Memory Leak
 *answers only to those who can pronounce 'Kubernetes' thrice without pausing.*
+
+## #0943 — The Vain Cache Miss
+*passes every unit test it has ever met; production has yet to forgive it.*
