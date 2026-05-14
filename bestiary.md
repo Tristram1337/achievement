@@ -1605,3 +1605,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0534 — The Lonely Integer Underflow
 *is technically not a bug but is documented as such in volume 23 of the wizard's grimoire.*
+
+## #0535 — The Dolorous Buffer Overrun
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
