@@ -2805,3 +2805,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0934 — The Lugubrious Type Confusion
 *exists in superposition of fixed and broken until observed by the CI runner.*
+
+## #0935 — The Whispering Phantom Read
+*passes every unit test it has ever met; production has yet to forgive it.*
