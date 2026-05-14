@@ -2868,3 +2868,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0955 — The Drunken Phantom Read
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0956 — The Indolent Null Reference
+*spawns from the union of two functions that have never been on speaking terms.*
