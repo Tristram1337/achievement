@@ -1539,3 +1539,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0512 — The Gregarious Type Confusion
 *haunts the codebase between midnight on Sundays, fed by off-by-one errors.*
+
+## #0513 — The Pedantic Off-by-One
+*manifests only when nobody is looking; vanishes the moment you call it a feature in standup.*
