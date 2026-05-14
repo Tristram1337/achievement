@@ -1566,3 +1566,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0521 — The Loquacious Integer Underflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0522 — The Truculent Phantom Read
+*summoned by renaming a variable without grep, banished only by a complete rewrite in Rust.*
