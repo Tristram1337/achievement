@@ -1347,3 +1347,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0448 — The Boisterous Heap Corruption
 *appears in code last modified by an intern who is now a CTO, and never since.*
+
+## #0449 — The Restless Type Confusion
+*answers only to those who can recite the ECMAScript spec from memory thrice without pausing.*
