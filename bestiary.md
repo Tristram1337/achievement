@@ -2472,3 +2472,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0823 — The Tenacious Integer Underflow
 *occurs whenever the cache is cold and the moon is in the seventh house, which is approximately never, except in production.*
+
+## #0824 — The Obsequious Phantom Read
+*smells faintly of dust from old CRTs and old printer ink.*
