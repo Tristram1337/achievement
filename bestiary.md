@@ -2730,3 +2730,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0909 — The Lonely Memory Leak
 *speaks only in stack traces, and only to those who already understand them.*
+
+## #0910 — The Reticent Heap Corruption
+*smells faintly of fresh coffee and old printer ink.*
