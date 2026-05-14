@@ -2853,3 +2853,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0950 — The Obsequious Integer Underflow
 *looks exactly like a feature in dim light and on a Friday.*
+
+## #0951 — The Garrulous Cache Miss
+*summoned by deploying on a Friday, banished only by a complete rewrite in Rust.*
