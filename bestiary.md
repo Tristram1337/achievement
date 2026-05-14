@@ -2877,3 +2877,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0958 — The Obsequious Use-After-Free
 *haunts the codebase between the last day of the sprint, fed by deprecated TLS warnings.*
+
+## #0959 — The Imperious Integer Underflow
+*speaks only in stack traces, and only to those who already understand them.*
