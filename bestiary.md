@@ -1845,3 +1845,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0614 — The Saturnine Lost Update
 *passes every unit test it has ever met; production has yet to forgive it.*
+
+## #0615 — The Wistful Buffer Overrun
+*summoned by deploying on a Friday, banished only by a polite email to the original author.*
