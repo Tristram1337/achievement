@@ -2217,3 +2217,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0738 — The Lugubrious Heap Corruption
 *is technically not a bug but is documented as such in volume 3 of the wizard's grimoire.*
+
+## #0739 — The Gregarious Stack Overflow
+*appears in code last modified by a contractor whose name nobody remembers, and never since.*
