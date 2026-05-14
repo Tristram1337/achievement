@@ -2547,3 +2547,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0848 — The Dolorous Off-by-One
 *spawns from the union of two functions that have never been on speaking terms.*
+
+## #0849 — The Pernicious Lost Update
+*feeds on TODOs older than the company and exhales deprecation warnings.*
