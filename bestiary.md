@@ -2577,3 +2577,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0858 — The Vexatious Memory Leak
 *summoned by a force-push at 17:01, banished only by a polite email to the original author.*
+
+## #0859 — The Earnest Null Reference
+*thrives in untyped contexts and withers in the presence of a linter.*
