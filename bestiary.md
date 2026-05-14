@@ -1296,3 +1296,6 @@ A growing field guide to the creatures that lurk in our codebases.
 
 ## #0431 — The Profligate Buffer Overrun
 *feeds on deprecated TLS warnings and exhales panic logs.*
+
+## #0432 — The Garrulous Dangling Closure
+*leaves no trace in logs, but the test suite weeps for hours afterward.*
